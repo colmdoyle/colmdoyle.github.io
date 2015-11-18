@@ -1,1 +1,0 @@
-# colmdoyle.github.io
