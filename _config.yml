@@ -1,20 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Colm Doyle
-email: hello@cdoyle.me
-description: > # this means to ignore newlines until "baseurl:"
-  Software Engineer with experience of multiple languages on codebases
-  serving anything from 1 user to 1.3 billion users.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cdoyle.me" # the base hostname & protocol for your site
-twitter_username: colmisainmdom
-github_username:  colmdoyle
-
 # Build settings
-markdown: kramdown
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Colm Doyle
+description: "A free Jekyll theme for download"
+keywords: "colm, doyle, ios, facebook, developer, advocate, kitman"
+url: http://cdoyle.me
+baseurl: ""
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/colmdoyle/colmdoyle.github.io
+
+# Author settings
+author:
+  name      : Colm Doyle
+  job       : Software Engineer
+  bio       : "I work on mobile projects at Kitman Labs."
+  thumb     : /images/headshot264.jpg
+  email     : hello@cdoyle.me
+  url       : https://cdoyle.me
+  github    : https://github.com/colmdoyle
+  twitter   : https://twitter.com/colmisainmdom
+  facebook  : https://facebook.com/colmdoyle
+  linkedin  : https://ie.linkedin.com/in/colmdoyle
+
+# navbar pages
+navbar:
+  # - slug: about
+  #   title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  # - slug: blog
+  #   title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
