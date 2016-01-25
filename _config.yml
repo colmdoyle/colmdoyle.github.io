@@ -14,10 +14,11 @@ sass:
 
 # SEO settings
 title: Colm Doyle
-description: "A free Jekyll theme for download"
+description: "I'm Colm Doyle, a Software Engineer from Dublin, Ireland."
 keywords: "colm, doyle, ios, facebook, developer, advocate, kitman"
 url: http://cdoyle.me
 baseurl: ""
+cover_image: /images/og_cover_image.jpg
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
