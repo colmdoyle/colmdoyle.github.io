@@ -9,8 +9,9 @@
     <meta content="website" property="og:type">
     <meta content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" property="og:url">
     <meta content="{{ site.cover_image | prepend: site.baseurl }}" property="og:image">
-    <meta content="Colm Doyle" property="og:site_name">
-    <meta content="260300016" property="fb:admins">
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta content="{{ site.fb_admins }}" property="fb:admins">
+    <meta content="{{ site.fb_app_id }}" property="fb:app_id">
 
     <!-- Twitter -->
     <meta content="summary_large_image" name="twitter:card">
@@ -18,7 +19,7 @@
     <meta content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" name="twitter:title">
     <meta content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" name="twitter:description">
     <meta content="{{ site.cover_image | prepend: site.baseurl }}" name="twitter:image">
-    <meta content="@colmisainmdom" name="twitter:site">
+    <meta content="@{{ site.twitter_id }}" name="twitter:site">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">

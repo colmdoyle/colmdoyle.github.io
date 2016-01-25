@@ -19,6 +19,9 @@ keywords: "colm, doyle, ios, facebook, developer, advocate, kitman"
 url: http://cdoyle.me
 baseurl: ""
 cover_image: /images/og_cover_image.jpg
+fb_app_id: 140479545983869
+fb_admins: 260300016
+twitter_id: colmisainmdom
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
