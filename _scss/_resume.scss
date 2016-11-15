@@ -41,3 +41,33 @@
   list-style-type: disc;
   list-style-position: inside;
 }
+
+.contact-details-print {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .name img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .name {
+    text-align: center;
+  }
+}
+
+@media print {
+  body {
+    border-top: 0;
+  }
+
+  .social {
+    display: none;
+  }
+
+  .contact-details-print {
+    display: inline;
+  }
+}
