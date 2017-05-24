@@ -35,6 +35,8 @@ GEM
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.11.0)
+      jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.3.1)
@@ -73,8 +75,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 2.5.3)
+  jekyll-redirect-from
   rake (~> 10.4.2)
   sass (~> 3.4.10)
 
 BUNDLED WITH
-   1.10.6
+   1.14.6
