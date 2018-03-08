@@ -14,8 +14,8 @@ sass:
 
 # SEO settings
 title: Colm Doyle
-description: "I'm Colm Doyle, an Engineering Manager from Dublin, Ireland."
-keywords: "colm, doyle, ios, facebook, developer, advocate, kitman"
+description: "I'm Colm Doyle, I work on Slack's Developer Relations team in Dublin, Ireland."
+keywords: "colm, doyle, ios, facebook, developer, advocate"
 url: http://cdoyle.me
 baseurl: ""
 cover_image: /images/og_cover_image.jpg
@@ -30,8 +30,8 @@ repo: http://github.com/colmdoyle/colmdoyle.github.io
 # Author settings
 author:
   name      : Colm Doyle
-  job       : Engineering Manager
-  bio       : "I manage the Engineering team at Kitman Labs."
+  job       : Developer Relations Lead
+  bio       : "I lead Slack's Developer Relations work in Europe, the Middle East and Africa."
   thumb     : /images/headshot264.jpg
   email     : hello@cdoyle.me
   url       : https://cdoyle.me
