@@ -18,6 +18,18 @@ const getContactHref = (name: string, contact: string) => {
     case 'email':
       href = `mailto:${contact}`;
       break;
+    case 'linkedin':
+      href = `https://www.linkedin.com/in/${contact}`;
+      break;
+    case 'instagram':
+      href = `https://www.instagram.com/${contact}`;
+      break;
+    case 'line':
+      href = `line://ti/p/${contact}`;
+      break;
+    case 'facebook':
+      href = `https://www.facebook.com/${contact}`;
+      break;
     default:
       href = contact;
       break;

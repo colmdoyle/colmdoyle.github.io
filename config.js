@@ -30,11 +30,15 @@ module.exports = {
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '#',
+      facebook: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '#',
-      vkontakte: '#'
+      vkontakte: '#',
+      linkedin: '#',
+      instagram: '#',
+      line: '#'
     }
   }
 };

@@ -8,4 +8,8 @@ test('getContactHref', () => {
   expect(getContactHref('vkontakte', '#')).toBe('https://vk.com/#');
   expect(getContactHref('telegram', '#')).toBe('https://t.me/#');
   expect(getContactHref('rss', '#')).toBe('#');
+  expect(getContactHref('linkedin', '#')).toBe('#');
+  expect(getContactHref('instagram', '#')).toBe('#');
+  expect(getContactHref('line', '#')).toBe('#');
+  expect(getContactHref('facebook', '#')).toBe('#');
 });
