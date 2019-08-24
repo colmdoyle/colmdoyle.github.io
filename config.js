@@ -38,7 +38,9 @@ module.exports = {
       vkontakte: '#',
       linkedin: '#',
       instagram: '#',
-      line: '#'
+      line: '#',
+      gitlab: '#',
+      weibo: '#'
     }
   }
 };

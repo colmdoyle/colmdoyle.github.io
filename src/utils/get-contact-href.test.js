@@ -12,4 +12,6 @@ test('getContactHref', () => {
   expect(getContactHref('instagram', '#')).toBe('#');
   expect(getContactHref('line', '#')).toBe('#');
   expect(getContactHref('facebook', '#')).toBe('#');
+  expect(getContactHref('gitlab', '#')).toBe('#');
+  expect(getContactHref('weibo', '#')).toBe('#');
 });

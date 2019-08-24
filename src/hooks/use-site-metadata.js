@@ -22,6 +22,8 @@ const useSiteMetadata = () => {
                 linkedin
                 instagram
                 line
+                gitlab
+                weibo
               }
             }
             menu {

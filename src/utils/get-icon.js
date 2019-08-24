@@ -35,6 +35,12 @@ const getIcon = (name: string) => {
     case 'facebook':
       icon = ICONS.FACEBOOK;
       break;
+    case 'gitlab':
+      icon = ICONS.GITLAB;
+      break;
+    case 'weibo':
+      icon = ICONS.WEIBO;
+      break;
     default:
       icon = {};
       break;
