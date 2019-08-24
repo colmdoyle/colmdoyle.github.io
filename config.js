@@ -29,12 +29,18 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '#',
+      email: '',
+      facebook: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
-      rss: '#',
-      vkontakte: '#'
+      rss: '',
+      vkontakte: '',
+      linkedin: '#',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: ''
     }
   }
 };
