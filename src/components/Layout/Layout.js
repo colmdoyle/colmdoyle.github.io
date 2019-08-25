@@ -13,7 +13,7 @@ type Props = {
   socialImage? :string
 };
 
-const Layout = ({ 
+const Layout = ({
   children,
   title,
   description,
