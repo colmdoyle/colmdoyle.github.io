@@ -14,7 +14,8 @@ type Props = {
 
 const PostTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
-  const { title: postTitle, description: postDescription, socialImage } = data.markdownRemark.frontmatter;
+  const frontmatter = data.markdownRemark.frontmatter;
+  const { title: postTitle, description: postDescription, socialImage } = frontmatter;
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
 
   return (
