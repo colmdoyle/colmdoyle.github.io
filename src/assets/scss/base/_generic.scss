@@ -7,7 +7,7 @@ html {
 
 body {
   margin: 0;
-  margin-left: calc(100vw - 100%);
+  margin: 0 0 0 calc(100vw - 100%);
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;
