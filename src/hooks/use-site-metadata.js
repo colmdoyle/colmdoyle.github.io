@@ -24,6 +24,7 @@ const useSiteMetadata = () => {
                 line
                 gitlab
                 weibo
+                codepen
               }
             }
             menu {
