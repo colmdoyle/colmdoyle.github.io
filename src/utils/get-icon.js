@@ -41,6 +41,9 @@ const getIcon = (name: string) => {
     case 'weibo':
       icon = ICONS.WEIBO;
       break;
+    case 'codepen':
+      icon = ICONS.CODEPEN;
+      break;
     default:
       icon = {};
       break;
