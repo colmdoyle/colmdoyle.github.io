@@ -44,6 +44,9 @@ const getIcon = (name: string) => {
     case 'codepen':
       icon = ICONS.CODEPEN;
       break;
+    case 'youtube':
+      icon = ICONS.YOUTUBE;
+      break;
     default:
       icon = {};
       break;

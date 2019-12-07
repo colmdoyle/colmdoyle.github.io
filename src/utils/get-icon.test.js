@@ -16,4 +16,5 @@ test('getIcon', () => {
   expect(getIcon('gitlab')).toEqual(ICONS.GITLAB);
   expect(getIcon('weibo')).toEqual(ICONS.WEIBO);
   expect(getIcon('codepen')).toEqual(ICONS.CODEPEN);
+  expect(getIcon('youtube')).toEqual(ICONS.YOUTUBE);
 });
