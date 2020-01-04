@@ -195,7 +195,7 @@ Nature graphic by [Anna Bearne](https://www.behance.net/annabearne) from [Noun P
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2016-2019 Alexander Shelepenok
+Copyright (c) 2016-2020 Alexander Shelepenok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
