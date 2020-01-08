@@ -44,7 +44,7 @@ const getContactHref = (name: string, contact: string) => {
       break;
     case 'soundcloud':
       href = `https://soundcloud.com/${contact}`;
-      break;  
+      break;
     default:
       href = contact;
       break;
