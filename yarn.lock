@@ -7583,10 +7583,10 @@ gatsby-plugin-offline@^3.0.34:
     lodash "^4.17.15"
     workbox-build "^4.3.1"
 
-gatsby-plugin-optimize-svgs@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-optimize-svgs/-/gatsby-plugin-optimize-svgs-1.0.3.tgz#fdabdbb8d56bea32f10aa856a6b0335742fd3b9e"
-  integrity sha512-lyHrBvtsCHLMNc3dAm3vMjafaQ6yvW1DcNpPgRwzSx29cphJH5sC1XXdzcykHs619CwKfKF2s5I2mLDM2IfBkg==
+gatsby-plugin-optimize-svgs@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-optimize-svgs/-/gatsby-plugin-optimize-svgs-1.0.4.tgz#b4a4f47030ed6c6c0fa2d9b9b8e3be4c63f32958"
+  integrity sha512-Sotz47BL5G7y6BzbqGDppu/5I7+mZGFnkyta+y5eOBpStsmCvOPFEZ7sRagKlli81JIrQKppeYg+veMR8qiwCQ==
   dependencies:
     svgo "^1.3.0"
     walk "^2.3.14"
