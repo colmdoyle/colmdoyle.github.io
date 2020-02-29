@@ -3,7 +3,7 @@
 source 'http://rubygems.org'
 
 group :development do
-  gem 'rake', '~> 10.4.2'
+  gem 'rake', '~> 12.3.3'
   gem 'sass', '~> 3.4.10'
   gem 'jekyll', '~> 2.5.3'
   gem 'jekyll-redirect-from'

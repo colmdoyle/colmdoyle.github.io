@@ -56,7 +56,7 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
-    rake (10.4.2)
+    rake (12.3.3)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -76,7 +76,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 2.5.3)
   jekyll-redirect-from
-  rake (~> 10.4.2)
+  rake (~> 12.3.3)
   sass (~> 3.4.10)
 
 BUNDLED WITH
