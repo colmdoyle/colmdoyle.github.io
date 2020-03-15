@@ -28,6 +28,5 @@ jobs:
     - run: yarn install --frozen-lockfile
     - run: yarn run lint
     - run: yarn run test --runInBand --no-cache
-    - run: yarn run build
       env:
         CI: true
