@@ -24,9 +24,10 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm ci
-    - run: npm run lint
-    - run: npm run test --runInBand --no-cache
-    - run: npm run build --if-present
+    - run: npm install -g yarn
+    - run: yarn install --frozen-lockfile
+    - run: yarn run lint
+    - run: yarn run test --runInBand --no-cache
+    - run: yarn run build
       env:
         CI: true
