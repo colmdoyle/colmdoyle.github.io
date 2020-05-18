@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-##  Hello! I'm Colm Doyle, a Developer Relations Lead from Dublin, Ireland.
+##  Hello! I'm Colm Doyle, a Developer Relations professional from Dublin, Ireland.
 
 I lead [Slack](https://slack.com)'s Developer Relations work in EMEA.
 
