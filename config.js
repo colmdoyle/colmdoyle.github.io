@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Colm Doyle',
     photo: '/photo.jpg',
-    bio: 'I\'m Colm Doyle, a Developer Relations Lead from Dublin, Ireland.',
+    bio: 'I\'m Colm Doyle, a Developer Relations professional from Dublin, Ireland.',
     contacts: {
       email: '',
       facebook: 'colmdoyle',
