@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/photo.jpg"
 ---
 
 ##  Hello! I'm Colm Doyle, a Developer Relations professional from Dublin, Ireland.
