@@ -146,7 +146,7 @@ $ gatsby serve
 
 Development efforts are supported by the sponsors. I'm very grateful for their donations, please check them out!
 
-<a href="https://jetbrains.com/" target="_blank"><img width="150" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/jetbrains/jetbrains.svg"></a>
+<a href="https://jetbrains.com" target="_blank"><img width="150" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/jetbrains/jetbrains.svg"></a>
 
 ## Contributors
 Thanks goes to these wonderful people!
