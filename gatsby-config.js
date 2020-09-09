@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/content`,
-        name: 'pages'
+        path: `${__dirname}/static`,
+        name: 'assets'
       }
     },
     {
@@ -32,15 +32,15 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'css',
-        path: `${__dirname}/static/css`
+        path: `${__dirname}/content`,
+        name: 'pages'
       }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'assets',
-        path: `${__dirname}/static`
+        name: 'css',
+        path: `${__dirname}/static/css`
       }
     },
     {
