@@ -19,7 +19,7 @@ const PageTemplate = ({ data }: Props) => {
   const { frontmatter } = data.markdownRemark;
   const { title: pageTitle, description: pageDescription, socialImage } = frontmatter;
   const metaDescription = pageDescription !== null ? pageDescription : siteSubtitle;
-  const socialImageUrl = socialImage ? socialImage['publicURL'] : null;
+  const socialImageUrl = socialImage ? socialImage['publicURL'] : '';
 
   return (
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} >

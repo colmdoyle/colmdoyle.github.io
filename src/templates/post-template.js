@@ -17,7 +17,7 @@ const PostTemplate = ({ data }: Props) => {
   const { frontmatter } = data.markdownRemark;
   const { title: postTitle, description: postDescription, socialImage } = frontmatter;
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
-  const socialImageUrl = socialImage ? socialImage['publicURL'] : null;
+  const socialImageUrl = socialImage ? socialImage['publicURL'] : '';
 
   return (
     <Layout title={`${postTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} >
