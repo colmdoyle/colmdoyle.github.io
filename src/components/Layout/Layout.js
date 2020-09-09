@@ -1,7 +1,6 @@
 // @flow strict
 import React from 'react';
 import Helmet from 'react-helmet';
-import { withPrefix } from 'gatsby';
 import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
@@ -21,7 +20,7 @@ const Layout = ({
 }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage != null ? socialImage : author.photo;
-  const metaImageUrl = url + withPrefix(metaImage);
+  const metaImageUrl = url + metaImage;
 
   return (
     <div className={styles.layout}>
