@@ -9,7 +9,7 @@ type Props = {
   children: ReactNode,
   title: string,
   description?: string,
-  socialImage? :string
+  socialImage?: string
 };
 
 const Layout = ({
@@ -19,7 +19,7 @@ const Layout = ({
   socialImage
 }: Props) => {
   const { author, url } = useSiteMetadata();
-  const metaImage = socialImage.length > 0 ? socialImage : author.photo;
+  const metaImage = typeof socialImage !== 'undefined' ? socialImage : author.photo;
   const metaImageUrl = url + metaImage;
 
   return (
