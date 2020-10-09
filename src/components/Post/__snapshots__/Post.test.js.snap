@@ -41,7 +41,7 @@ exports[`Post renders correctly 1`] = `
         className="meta__date"
       >
         Published 
-        1 Sep 2016
+        Sep 1, 2016
       </p>
     </div>
     <div
