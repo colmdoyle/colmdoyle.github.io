@@ -39,7 +39,7 @@
   ],
   "dependencies": {
     "@sentry/gatsby": "^5.29.0",
-    "@sentry/tracing": "^5.29.0",
+    "@sentry/tracing": "^5.29.2",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.8.1",
