@@ -6,7 +6,7 @@ socialImage: "/photo.jpg"
 
 ##  Hello! I'm Colm Doyle, a Developer Relations professional from Dublin, Ireland.
 
-I lead [Slack](https://slack.com)'s Developer Advocacy team.
+I lead the Developer Advocacy team at [Slack](https://api.slack.com).
 
 Before that I was an early employee at [Kitman Labs](https://kitmanlabs.com) and a founding member of the Developer Support Engineering team at [Facebook](https://developers.facebook.com), where I helped build the Dublin and Menlo Park teams before moving into the Product Engineering organization. I also took part in any number of side projects, like [hacking the NASDAQ button](http://techcrunch.com/2012/05/18/how-facebook-hacked-the-nasdaq-button/) and [encouraging people to vote in elections](https://www.facebook.com/notes/facebook-data-science/the-2012-election-day-through-the-facebook-lens/10151181043778859/).
 
