@@ -4,14 +4,14 @@
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "scripts": {
-    "develop": "yarn run clean && gatsby develop",
-    "build": "yarn run clean && gatsby build",
-    "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "develop": "yarn clean && gatsby develop",
+    "build": "yarn clean && gatsby build",
+    "deploy": "yarn clean && gatsby build --prefix-paths && gh-pages -d public",
     "clean": "rimraf .cache public",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",
     "lint:scss": "stylelint \"src/**/*.scss\"",
-    "lint": "concurrently \"yarn run lint:js\" \"yarn run lint:scss\" \"yarn flow\"",
+    "lint": "concurrently \"yarn lint:js\" \"yarn lint:scss\" \"yarn flow\"",
     "test": "jest --config ./jest/jest-config.js",
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
