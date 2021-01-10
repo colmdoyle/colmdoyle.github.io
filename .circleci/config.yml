@@ -59,7 +59,7 @@ jobs:
             - dependencies-{{ checksum "yarn.lock" }}
       - restore_cache:
           keys:
-            - coverage-output-{{ .Environment.CIRCLE_SHA1 }}
+            - coverage-{{ .Environment.CIRCLE_SHA1 }}
       - run: yarn global add codecov
       - run: yarn codecov
     
