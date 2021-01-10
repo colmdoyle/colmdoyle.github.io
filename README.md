@@ -83,7 +83,7 @@ To deploy to github pages, simply do the following:
 - Run the standard deploy command
 
 ```sh
-npm run deploy
+yarn deploy
 ```
 
 
@@ -92,11 +92,11 @@ npm run deploy
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ yarn
-$ npm run develop
+$ yarn develop
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```
-$ npm run build
+$ yarn build
 $ gatsby serve
 ```
 
