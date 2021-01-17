@@ -113,6 +113,7 @@
     "postcss-pxtorem": "5.1.1",
     "react-test-renderer": "17.0.1",
     "rimraf": "3.0.2",
+    "sass": "^1.32.0",
     "stylelint": "13.8.0",
     "stylelint-config-recommended-scss": "4.2.0",
     "stylelint-scss": "3.18.0"
