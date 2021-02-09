@@ -116,6 +116,6 @@
     "sass": "^1.32.6",
     "stylelint": "13.9.0",
     "stylelint-config-recommended-scss": "4.2.0",
-    "stylelint-scss": "3.18.0"
+    "stylelint-scss": "3.19.0"
   }
 }
