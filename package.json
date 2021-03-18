@@ -50,7 +50,7 @@
     "gatsby-plugin-flow": "^1.10.0",
     "gatsby-plugin-google-gtag": "^2.8.0",
     "gatsby-plugin-manifest": "^2.12.1",
-    "gatsby-plugin-netlify": "^2.11.0",
+    "gatsby-plugin-netlify": "^2.11.1",
     "gatsby-plugin-netlify-cms": "^4.10.0",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-optimize-svgs": "^1.0.5",
