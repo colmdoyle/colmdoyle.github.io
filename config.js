@@ -38,6 +38,9 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '',
+      telegram: '',
+      vkontakte: '',
+      line: '', 
     }
   }
 };
