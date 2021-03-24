@@ -37,9 +37,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      line: '',
-      vkontakte: '',
-      telegram: ''
+      medium: '',
     }
   }
 };

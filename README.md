@@ -4,7 +4,11 @@
 </h1>
 
 <h4 align="center">
+<<<<<<< HEAD
   A minimal, lightweight and mobile-first starter for creating blogs uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
+=======
+  A constantly evolving and thoughtful architecture for creating new static blogs.
+>>>>>>> lumen/master
 </h4>
 
 <p align="center">
@@ -17,11 +21,16 @@
 + [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
 + [Deploy with Netlify](http://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-netlify)
 + [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
+<<<<<<< HEAD
 + [Related](http://github.com/alxshelepenok/gatsby-starter-lumen#related)
 + [Contributors](http://github.com/alxshelepenok/gatsby-starter-lumen#contributors)
 + [Backers](http://github.com/alxshelepenok/gatsby-starter-lumen#backers)
 + [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
 + [Credits](http://github.com/alxshelepenok/gatsby-starter-lumen#credits)
+=======
++ [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
++ [Contributors](http://github.com/alxshelepenok/gatsby-starter-lumen#contributors)
+>>>>>>> lumen/master
 + [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
 
 ## Features
@@ -86,7 +95,11 @@ To deploy to github pages, simply do the following:
 - Run the standard deploy command
 
 ```sh
+<<<<<<< HEAD
 npm run deploy
+=======
+yarn deploy
+>>>>>>> lumen/master
 ```
 
 
@@ -95,11 +108,19 @@ npm run deploy
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ yarn
+<<<<<<< HEAD
 $ npm run develop
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```
 $ npm run build
+=======
+$ yarn develop
+```
+To test the CMS locally, you'll need run a production build of the site:
+```
+$ yarn build
+>>>>>>> lumen/master
 $ gatsby serve
 ```
 
@@ -142,8 +163,17 @@ $ gatsby serve
 
 ```
 
+<<<<<<< HEAD
 ## Related
 [Statinamic port](https://github.com/thangngoc89/statinamic-theme-lumen) by [Khoa Nguyen](https://github.com/thangngoc89)
+=======
+## Sponsors
+
+Development efforts are supported by the sponsors. I'm very grateful for their donations, please check them out!
+
+| <a href="https://jetbrains.com" target="_blank"><img width="100" src="https://raw.githubusercontent.com/JetBrains/logos/master/web/jetbrains/jetbrains.svg"></a>  | <a href="https://www.browserstack.com" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/94cbc6dc4a2cb8167ee188ddab33893a/raw/f869c9a67db7bfd5440a49178195efe811d8f7d8/browserstack.svg"></a> | <a href="https://sentry.io" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/1a74dbe123b2f7ad538f41c94e2da0a2/raw/aaeb3b38ef0873bae1f23f3605696b4e65362e67/sentry.svg"></a> |
+:---: |:---: |:---: |
+>>>>>>> lumen/master
 
 ## Contributors
 Thanks goes to these wonderful people!
@@ -168,6 +198,7 @@ Thanks goes to these wonderful people!
 :---: |:---: |:---: |:---: |
 [vvasiloud](https://github.com/vvasiloud) |[vstoms](https://github.com/vstoms) |[wichopy](https://github.com/wichopy) |[yairmark](https://github.com/yairmark) |
 
+<<<<<<< HEAD
 ## Backers [![Backers on Open Collective](https://opencollective.com/lumen/backers/badge.svg)](#backers)
 
 Thank you to all our backers!
@@ -192,6 +223,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 ## Credits
 Nature graphic by [Anna Bearne](https://www.behance.net/annabearne) from [Noun Project](https://thenounproject.com/) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode).
 
+=======
+>>>>>>> lumen/master
 ## License
 The MIT License (MIT)
 
