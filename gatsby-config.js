@@ -18,13 +18,8 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-<<<<<<< HEAD
-        path: `${__dirname}/content`,
-        name: 'pages'
-=======
         path: `${__dirname}/static`,
         name: 'assets'
->>>>>>> lumen/master
       }
     },
     {
@@ -37,25 +32,15 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-<<<<<<< HEAD
-        name: 'css',
-        path: `${__dirname}/static/css`
-=======
         path: `${__dirname}/content`,
         name: 'pages'
->>>>>>> lumen/master
       }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-<<<<<<< HEAD
-        name: 'assets',
-        path: `${__dirname}/static`
-=======
         name: 'css',
         path: `${__dirname}/static/css`
->>>>>>> lumen/master
       }
     },
     {
@@ -128,12 +113,7 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 960,
-<<<<<<< HEAD
-              withWebp: true,
-              ignoreFileExtensions: [],
-=======
               withWebp: true
->>>>>>> lumen/master
             }
           },
           {
@@ -154,11 +134,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
-<<<<<<< HEAD
-        modulePath: `${__dirname}/src/cms/index.js`,
-=======
         modulePath: `${__dirname}/src/cms/index.js`
->>>>>>> lumen/master
       }
     },
     {
@@ -166,15 +142,9 @@ module.exports = {
       options: {
         trackingIds: [siteConfig.googleAnalyticsId],
         pluginConfig: {
-<<<<<<< HEAD
-          head: true,
-        },
-      },
-=======
           head: true
         }
       }
->>>>>>> lumen/master
     },
     {
       resolve: 'gatsby-plugin-sitemap',
@@ -219,9 +189,6 @@ module.exports = {
         icon: 'static/photo.jpg'
       },
     },
-<<<<<<< HEAD
-    'gatsby-plugin-offline',
-=======
     {
       resolve: 'gatsby-plugin-offline',
       options: {
@@ -252,22 +219,11 @@ module.exports = {
         },
       },
     },
->>>>>>> lumen/master
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-sass',
       options: {
-<<<<<<< HEAD
-        postCssPlugins: [...postCssPlugins],
-        cssLoaderOptions: {
-          camelCase: false,
-        }
-      }
-    },
-    'gatsby-plugin-flow',
-    'gatsby-plugin-optimize-svgs',
-=======
         implementation: require('sass'),
         postCssPlugins: [...postCssPlugins],
         cssLoaderOptions: {
@@ -284,6 +240,5 @@ module.exports = {
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs'
->>>>>>> lumen/master
   ]
 };
