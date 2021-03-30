@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Speaking',
+      path: '/pages/speaking'
     }
   ],
   author: {
@@ -25,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'I\'m Colm Doyle, a Developer Relations professional from Dublin, Ireland.',
     contacts: {
-      email: '',
+      email: 'hello@cdoyle.me',
       facebook: 'colmdoyle',
       twitter: 'colmisainmdom',
       github: 'colmdoyle',
