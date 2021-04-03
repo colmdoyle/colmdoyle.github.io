@@ -16,6 +16,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `cdoyle.me`,
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static`,
