@@ -2,7 +2,7 @@
 title: Getting better at Developer Relations
 date: "2021-04-03T21:00:00.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "getting-better-at-devrel"
 category: "Developer Relations"
 tags:
