@@ -5,10 +5,10 @@ module.exports = {
   pathPrefix: '/',
   title: 'Colm Doyle',
   subtitle: 'Aut inveniam viam aut faciam',
-  copyright: '© All rights reserved.',
+  copyright: 'Attribution 4.0 International (CC BY 4.0)',
   disqusShortname: '',
   postsPerPage: 5,
-  googleAnalyticsId: 'UA-36623083-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
