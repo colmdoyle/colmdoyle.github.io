@@ -1,5 +1,5 @@
 ---
-title: Predictions: Apple Spring Loaded event
+title: Apple Spring Loaded event - some predictions
 date: "2021-04-18T21:00:00.121Z"
 template: "post"
 draft: false
