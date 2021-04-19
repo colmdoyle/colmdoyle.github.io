@@ -30,7 +30,7 @@ module.exports = {
     bio: 'I\'m Colm Doyle, a Developer Relations professional from Dublin, Ireland.',
     contacts: {
       email: 'hello@cdoyle.me',
-      facebook: 'colmdoyle',
+      facebook: '',
       twitter: 'colmisainmdom',
       github: 'colmdoyle',
       rss: '',
