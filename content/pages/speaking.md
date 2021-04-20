@@ -8,26 +8,59 @@ socialImage: "/media/on-stage-social-crop.jpg"
 
 If you're interested in having me speak at your event, thank you for considering me! I'm happy to speak at developer focused events where I can participate from Ireland. Given the current situation, I cannot travel, but will provide pre-records of any of my talks, and if timezones allow, particpate in live Q&A. If none of the talks below fit the bill, let me know and I'll see if there's something I can speak to. 
 
+- [Talks](#talks)
+  - [Everything is on fire - Don't Panic (How to manage incidents)](#everything-is-on-fire---dont-panic-how-to-manage-incidents)
+  - [Getting started with the Slack Platform (Talk)](#getting-started-with-the-slack-platform-talk)
+  - [Getting started with the Slack Platform using Bolt for Javascript (Workshop)](#getting-started-with-the-slack-platform-using-bolt-for-javascript-workshop)
+- [Notes](#notes)
+- [Bio](#bio)
+  - [Long](#long)
+  - [Short](#short)
+  - [Twitter friendly snippet](#twitter-friendly-snippet)
+  - [Headshot](#headshot)
+
 ## Talks
 
 Here's the talks that I'm currently giving at events
 
+| Talk name     | Length        | Format  |
+| ------------- |:-------------:| -----:|
+| [Everything is on fire - Don't Panic (How to manage incidents)](#everything-is-on-fire---dont-panic-how-to-manage-incidents)  | 30 minutes | Presentation |
+| [Getting started with the Slack Platform](#getting-started-with-the-slack-platform-talk)     | 15 minutes      | Presentation |
+| [Getting started with the Slack Platform using Bolt for Javascript](#getting-started-with-the-slack-platform-using-bolt-for-javascript-workshop) | 60 minutes      | Workshop |
+
 ### Everything is on fire - Don't Panic (How to manage incidents)
 
+**Talk length:**    30 minutes
+
+**Format:**         Presentation
+
+**Abstract**
 Any kind of disruption or outage is inherently stressful for your team. Revenue, trust, customer experience - they all take a hit with every minute that passes. In this talk, Colm will speak about how to approach managing incidents that affect everything from small parts of the product to system wide outages, letting teams focus on resolving the problem and not the stress of an incident. He'll talk process and tooling, both from Slack and other well known technology companies.
 
 ### Getting started with the Slack Platform (Talk)
 
+**Talk length:**    15 minutes
+
+**Format:**         Presentation
+
+**Abstract**
 The Slack platform lets you extend, expand, and automate your workspaces. You can cultivate conversation, inspire action, and integrate services by building apps or workflows. In this talk, you'll learn how to combine the tools and automations your team relies on using the Slack Platform.
 
-### Getting started with the Slack Platform (Workshop)
+### Getting started with the Slack Platform using Bolt for Javascript (Workshop)
 
+**Talk length:**    60 minutes
+
+**Format:**         Workshop
+
+**Abstract**
 The Slack platform lets you extend, expand, and automate your workspaces. You can cultivate conversation, inspire action, and integrate services by building apps or workflows. In this workshop, follow along as build an app to manage your task list.
 
 ## Notes
 
 - I will not speak at a conference without a valid and enforceable [code of conduct](https://www.ashedryden.com/blog/codes-of-conduct-101-faq).
 - I will not participate in all male panels.
+- I prefer to use my own background when speaking on video and will not use a branded virtual background
 
 ## Bio
 
