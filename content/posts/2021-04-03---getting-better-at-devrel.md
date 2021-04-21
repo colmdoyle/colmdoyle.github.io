@@ -55,7 +55,7 @@ Perhaps most importantly for your community, you’ll be better placed to help t
 
 When I talk about being Developer Zero and the kinds of questions you should be asking when trying a new feature, what I’m really trying to give you is a list of things you should be talking to the relevant Product Manager about. Your relationship with Product Managers will be key to how effectively you can advocate for the views of the developers you serve, so cultivate them. 
 
-Ultimately, the relationship you have with your PMs will depend on your organization, but I think ideally you want to get to a place whereby PMs are actively seeking out your feedback as early as possible in the design stage of a feature. Be their trusted parter. Don’t ring their bell for every single piece of feedback. Watch for patterns in the community and surface them. 
+Ultimately, the relationship you have with your PMs will depend on your organization, but I think ideally you want to get to a place whereby PMs are actively seeking out your feedback as early as possible in the design stage of a feature. Be their trusted partner. Don’t ring their bell for every single piece of feedback. Watch for patterns in the community and surface them. 
 
 ## Practice Empathy
 My final piece of advice is this - Be empathic with those in your community. Assume their best intent. They want to learn - after all, they raise bugs and suggest features because they share your passion for the platform you have the privilege of working on.
