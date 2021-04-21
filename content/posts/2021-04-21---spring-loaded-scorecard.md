@@ -14,7 +14,7 @@ socialImage: "/media/spring-loaded.jpg"
 
 ![Apple marketing image for Spring Loaded event](/media/spring-loaded.jpg)
 
-[Last week](/posts/predictions-apple-spring-loaded), I put out a few guesses on what Apple would announce at their "[Spring Loaded](https://www.youtube.com/watch?v=JdBYVNuky1M)". Now that the event is done, I thought it was only fair to keep myself honest on how I did. And reader, the scores aren't pretty.
+[Last week](/posts/predictions-apple-spring-loaded), I put out a few guesses on what Apple would announce at their "[Spring Loaded](https://www.youtube.com/watch?v=JdBYVNuky1M)" event. Now that it's done, I thought it was only fair to keep myself honest on how I did. And reader, the scores aren't pretty.
 
 ## App Tracking Transparency Update 👎
 
