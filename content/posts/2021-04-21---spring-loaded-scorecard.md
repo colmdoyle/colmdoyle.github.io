@@ -38,7 +38,9 @@ No dressing this up, the Pencil barely got a reference.
 ##  Nothing about new laptops / desktops 🤔
 Ok ok, I'm definitely being generous not hard failing myself on this one. The new M1 iMac got almost as much time as the iPad Pro, but in my defense, they didn't announce a new M Series chip, they just stuck it in an (admittedly massively redesigned) iMac.
 
-Honestly, whilst many folks I know are eager to open their wallets for the new 24in iMac, I'll keep my money for now, because you (a) can't use it as an external display for a MacBook, and (b) I want desktops to be more like 27/30in.
+I think almost as standout as the iMac itself, is the presence of Touch ID on an external device. I won't be swapping out my mechanical keyboard any time soon, but this does feel overdue. One thing to note before you buy though, this only works when the keyboard is paired with an Apple Silicon device, so if you've got an Intel powered machine, best to keep your money for now.
+
+Honestly, whilst many folks I know are eager to open their wallets for the new 24in iMac, I'll keep my money for now, because you (a) can't use it as an external display for a MacBook, and (b) I want desktops to be more like 27/30in. Plus a lot of things you'd expect by default, like gigabit ethernet and 16GB of RAM, are optional extras that will move away from the $1300 price point.
 
 I do like the industrial design to be fair, although like others, I think I would have sacrificed some of the thinness to get rid of the "chin" underneath the display. Imagine your desktop basically looking like a 27in iPad Pro. Glorious.
 
