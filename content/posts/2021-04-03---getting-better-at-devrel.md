@@ -14,6 +14,8 @@ socialImage: "/media/craftsmanship.jpg"
 
 ![Craftsmanship tempered with playfulness](/media/craftsmanship.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/Getting-better-at-Developer-Relations-evdqpi/a-a5b0dsa" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Much to my own surprise, a number of people have been asking me lately how they should approach working in Developer Relations. After listening to the excellent [Twitter Spaces Panel](https://youtu.be/_q_bWATVJTg) the other day, I was inspired to write down some of my thoughts on how people can refine the craft of working with their Developer Community. I hope this advice is as valuable for someone considering moving into DevRel as it is for a seasoned practitioner.  
 
 It’s important to say though, this is less me prescribing the perfect formula of being a Developer Advocate / Community Manager / pick your DevRel title, and more about what works for me, because I am far from perfect at this and have actively been trying to improve what I do. In fact, the mere writing of this is part of my process, which leads me to my first suggestion.
