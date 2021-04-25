@@ -1,9 +1,9 @@
 ---
-title: "Podcast"
+title: "Klokta"
 template: "page"
 ---
 
-## Klokta
+![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/media/klokta-header.jpg)
 
 Klokta is a podcast about technology, Developer Relations and more.
 
