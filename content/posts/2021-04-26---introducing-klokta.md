@@ -10,15 +10,19 @@ tags:
   - "Technology"
   - "Podcast"
   - "Klokta"
-description: "A large portion of Developer Relations is content creation, so I'm always curious to explore new mediums. To that end, I'm going to start recording a podcast..."
+description: "I've always had a bit of an on and off relationship with podcasts. They're the classic ‘commute to work’ medium and you can see why, especially in the days of the iPod. Load up your device in the morning while you have breakfast, then stick in your headphones and catch up on whatever takes your fancy."
 socialImage: "/media/klokta-header.jpg"
 ---
 
 ![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/media/klokta-header.jpg)
 
-A few weeks ago, I wrote about how [creating more content](/posts/getting-better-at-devrel#create-more-content) was an important practice for those of us who work in Developer Relations. As I alluded to in that article, resurrecting this blog was part of my own routine for creating more content.
+I've always had a bit of an on and off relationship with podcasts. They're the classic "commute to work" medium and you can see why, especially in the days of the iPod. Load up your device in the morning while you have breakfast, then stick in your headphones and catch up on whatever takes your fancy.
 
-In the same vein, I've decided to start publishing a podcast, which I’m calling [Klokta](/pages/podcast).
+They never really worked out that way for me, despite spending at least ninety minutes a day on trams and buses before COVID-19 forced most folks in the tech sector into a forced mass work-from-home experiment. To be sure I tried, but the issue was always one of distraction. I'd fire up the next podcast in my queue and start listening, but then I'd also fire up twitter/facebook/instagram/slack, and start consuming there too. Before I knew it, twenty minutes had passed and if you'd offered me a million euro, I wouldn't be able to answer any questions on what I had just listened to.
+
+That all changed with COVID-19. My "commute" now consists of walking from my bedroom to the room I used as a home office. But I did start to walk more. And then [Dithering](https://dithering.fm) came along. A podcast that last 15 minutes was pretty much a perfect match for my attention span. It became a regular feature of my week and since then, I've started listening to all sorts of podcasts, even ones as long as [The Talk Show](https://daringfireball.net/thetalkshow/).
+
+Given my history with podcasts, it's pretty reasonable to argue that I'm not the best person to start publishing one, but a few weeks ago, I wrote about how [creating more content](/posts/getting-better-at-devrel#create-more-content) was an important practice for those of us who work in Developer Relations. As I alluded to in that article, resurrecting this blog was part of my own routine for creating more content. So despite having only really gotten into them in the last 12 months, I've decided to start publishing a podcast, which I’m calling [Klokta](/pages/podcast).
 
 ## What's in a name?
 
@@ -45,7 +49,6 @@ For those of you curious, here’s the technology that I’ll be using in relati
 - *Hosting podcasts*: As I mentioned, I looked around and settled on Anchor to host the actual podcasts. I considered uploading them to S3 and rolling my own RSS feed for players to subscribe to, but honestly that sounded like a lot of effort, and whilst I don’t need a _massive_ amount of metrics, I was curious to at least have a sense of whether anyone was listening, which more or less forced me into something off the shelf. Anchor pretty much works out of the box, doesn’t actually cost anything, and provides basic metrics, specifically play counts and an estimate on the number of people listening. If people choose to listen using Spotify, I’ll also get a rough idea of how long they’re listening for.
 - *Cover Art*: For the cover art, I didn’t want anything fancy or well designed, so I just stuck a stock photo with a permissive license into [Procreate](https://procreate.art/ipad), added a text overlay, and that’s it. I also tend to use procreate for the images used on this site.
 - *Landing Page*: Anchor provides a landing page out of the box, but I decided I wanted to have something I could control better, so I’ve added [a page](/pages/podcast) on this site to serve that purpose. This whole site is Gatsby, so it was just a matter of adding a markdown file and a link on the side navigation. I tend to write drafts of pages (and posts like this) in [iA Writer](https://ia.net/writer) on my iPad Pro, before copying them over to [Working Copy](https://workingcopyapp.com) to commit and push to GitHub, where actions take over and deploy the site.
-
 
 ---
 If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!
