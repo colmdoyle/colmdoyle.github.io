@@ -58,7 +58,7 @@ The Slack platform lets you extend, expand, and automate your workspaces. You ca
 
 ### Long
 
-Colm Doyle leads the Developer Advocacy team at Slack, which helps developers learn how to make their tools work better together. Before joining Slack, he managed the Engineering team at [Kitman Labs](https://kitmanlabs.com) and worked on [Facebook Platform](https://developers.facebook.com). In a minor claim to fame, at a hackathon he once helped [take apart the NASDAQ opening bell](http://techcrunch.com/2012/05/18/how-facebook-hacked-the-nasdaq-button/) to connect it to Facebook's APIs.
+Colm Doyle leads the Developer Advocacy team at Slack, which helps developers learn how to make their tools work better together. Before joining Slack, he managed the Engineering team at [Kitman Labs](https://www.kitmanlabs.com) and worked on [Facebook Platform](https://developers.facebook.com). In a minor claim to fame, at a hackathon he once helped [take apart the NASDAQ opening bell](http://techcrunch.com/2012/05/18/how-facebook-hacked-the-nasdaq-button/) to connect it to Facebook's APIs.
 
 
 ### Short
