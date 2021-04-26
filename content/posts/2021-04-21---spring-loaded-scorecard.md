@@ -14,6 +14,8 @@ socialImage: "/media/spring-loaded.jpg"
 
 ![Apple marketing image for Spring Loaded event](/media/spring-loaded.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/My-Spring-Loaded-scorecard-evm0as" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 [Last week](/posts/predictions-apple-spring-loaded), I put out a few guesses on what Apple would announce at their "[Spring Loaded](https://www.youtube.com/watch?v=JdBYVNuky1M)" event. Now that it's done, I thought it was only fair to keep myself honest on how I did. And reader, the scores aren't pretty.
 
 ## App Tracking Transparency Update 👎

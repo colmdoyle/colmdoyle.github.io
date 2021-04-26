@@ -14,6 +14,8 @@ socialImage: "/media/spring-loaded.jpg"
 
 ![Apple marketing image for Spring Loaded event](/media/spring-loaded.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/Apple-Spring-Loaded-event---some-predictions-evm02o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 I’m a big fan of Apple, and whilst I don’t intend for this to be an Apple watching blog, I’ve challenged myself to write more, and the [upcoming Apple event](https://www.theverge.com/2021/4/16/22385362/apple-event-ipad-airpods-pencil-tv-tags-rumors-spring-loaded) is what’s been playing out on podcasts and in my feeds this week. So without further ado, here’s my predictions. 
 
 ## App Tracking Transparency Update
