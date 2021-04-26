@@ -14,6 +14,8 @@ socialImage: "/media/one-step-forward.jpg"
 
 ![A mosiac of tiles spelling out the words "One step forward"](/media/one-step-forward.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/If-youre-not-iterating--youre-already-falling-behind-evgbnc/a-a5bbutu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 When I worked at Facebook in the early days, we used to talk a lot about what would be "the new Facebook", because if **we** didn’t become the "new Facebook", there was a hundred [YC](https://www.ycombinator.com) startups that surely would. There was a definite sense of urgency around shipping new code. 
 
 This sense of urgency is, in my opinion, the true meaning of "[Move Fast and Break Things](https://youtu.be/V6urvN_4q9I)". It wasn’t about carelessness and disregard for users, although sometimes it did unfortunately manifest that way. Instead it was about accepting a certain amount of risk you’d break something in return for the perceived upside of forward momentum, because with so many companies wanting to be the next Facebook, if we weren’t moving forwards, we were moving backwards.
