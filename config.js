@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://cdoyle.me',
   pathPrefix: '/',
   title: 'Colm Doyle',
-  subtitle: 'Aut inveniam viam aut faciam',
+  subtitle: 'My thoughts on Technology, Developer Relations and more.',
   copyright: 'Attribution 4.0 International (CC BY 4.0)',
   disqusShortname: '',
   postsPerPage: 5,
