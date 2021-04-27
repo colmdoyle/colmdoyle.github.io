@@ -16,6 +16,8 @@ socialImage: "/media/klokta-header.jpg"
 
 ![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/media/klokta-header.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/Introducing-Klokta-evlur5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 I've always had a bit of an on and off relationship with podcasts. They're the classic "commute to work" medium and you can see why, especially in the days of the iPod. Load up your device in the morning while you have breakfast, then stick in your headphones and catch up on whatever takes your fancy.
 
 They never really worked out that way for me, despite spending at least ninety minutes a day on trams and buses before COVID-19 forced most folks in the tech sector and office workers generally into a mass work-from-home experiment. To be sure I tried, but the issue was always one of distraction. I'd fire up the next podcast in my queue and start listening, but then I'd also fire up twitter/facebook/instagram/slack, and start consuming there too. Before I knew it, twenty minutes had passed and if you'd offered me a million euro, I wouldn't be able to answer any questions on what I had just listened to.
