@@ -37,7 +37,7 @@ module.exports = {
       facebook: '',
       twitter: 'colmisainmdom',
       github: 'colmdoyle',
-      rss: '',
+      rss: 'https://cdoyle.me/rss.xml',
       linkedin: 'colmdoyle',
       instagram: '',
       gitlab: '',
