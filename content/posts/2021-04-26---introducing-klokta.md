@@ -26,7 +26,7 @@ Given my history with podcasts, it's pretty reasonable to argue that I'm not the
 
 ## What's in a name?
 
-Settling on Klokta as a name was a bit of a random process. I started looking for a podcast hosting service, and after looking at a few, I settled on using [Anchor](https://anchor.fm), which is the podcasting platform owned by Spotify. I'd heard it mentioned (but not exactly recommended) on [Dithering](https://dithering.fm), so I knew Spotify had some tooling in this area, and it's been an [area of investment](https://www.theverge.com/2021/4/23/22399123/spotify-podcaster-subscription-fees-revenue) for them of late, so I figured it’s a pretty safe bet.
+Settling on Klokta as a name was a bit of a random process. I started looking for a podcast hosting service, and after looking at a few, I settled on using [Anchor](https://anchor.fm), which is the podcasting platform owned by Spotify. I'd heard it mentioned (but not exactly recommended) on [Dithering](https://dithering.fm), so I knew Spotify had some tooling in this area, and it's been an [area of investment](https://www.theverge.com/2021/4/27/22404273/spotify-podcast-subscriptions-monetize-subscriber-shows) for them of late, so I figured it’s a pretty safe bet.
 
 Part of the signup process there is picking a name for your podcast. I punched in "Colm Doyle" and went through the rest of the setup, but the more I thought about it, the more I felt odd about sticking my name on it. It's not like I'm some celebrity where my literal name has any brand value. Could you really hear someone saying "oh you should check out this podcast called 'Colm Doyle'"? No, me either.
 
