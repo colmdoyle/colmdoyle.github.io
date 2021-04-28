@@ -38,6 +38,9 @@ Any kind of disruption or outage is inherently stressful for your team. Revenue,
 
 The Slack platform lets you extend, expand, and automate your workspaces. You can cultivate conversation, inspire action, and integrate services by building apps or workflows. In this talk, you'll learn how to combine the tools and automations your team relies on using the Slack Platform.
 
+**Previous presentation**
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftechazmedia%2Fvideos%2F782304045823982%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ### Getting started with the Slack Platform using Bolt for Javascript (Workshop)
 
 **Talk length:**    60 minutes
