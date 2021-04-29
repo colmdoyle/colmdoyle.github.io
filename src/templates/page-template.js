@@ -16,13 +16,13 @@ type Props = {
 const PageTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
   const { html: pageBody } = data.markdownRemark;
-  const { frontmatter } = data.markdownRemark;
+  const { frontmatter, fields } = data.markdownRemark;
   const { title: pageTitle, description: pageDescription = '', socialImage } = frontmatter;
   const metaDescription = pageDescription || siteSubtitle;
   const socialImageUrl = socialImage?.publicURL;
 
   return (
-    <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} >
+    <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} slug={fields.slug}>
       <Sidebar />
       <Page title={pageTitle}>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
@@ -36,6 +36,9 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         date
