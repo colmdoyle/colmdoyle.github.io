@@ -22,7 +22,7 @@ const Layout = ({
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
   const metaImageUrl = url + metaImage;
-  const ogUrl = slug ? url + slug : url;
+  const ogUrl = slug ? url + slug + '/' : url;
 
   return (
     <div className={styles.layout}>
