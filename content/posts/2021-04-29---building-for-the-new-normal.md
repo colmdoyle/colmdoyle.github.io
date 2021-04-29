@@ -16,6 +16,8 @@ socialImage: "/media/building-for-the-new-normal.jpg"
 
 ![A shot of a video conference with a woman who can be seen smiling on screen. A man is sitting in front of the computer.](/media/building-for-the-new-normal.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/Building-for-the-new-normal-evtcgr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 As the world starts to look toward a post COVID work environment, the commonly accepted wisdom seems to be that a Monday to Friday 9-5 routine in a central office is no longer the default expectation for [knowledge workers](https://en.wikipedia.org/wiki/Knowledge_worker). 
 
 Instead, particularly in the [technology sector](https://www.bbc.com/news/business-56759151), a lot of companies are moving to either a fully distributed workforce, or a hybrid one where you spend only a small percentage of your time co-located with your team. And whilst most of the focus has been on what that means in terms of physical real estate and employee compensation, I think the interesting long term changes will be in the digital tooling that we all rely on day to day. A lot of these product and organisational trends have been bubbling under the surface for some time now, but over the last few months and in the coming years, those trends have started to accelerate, bringing about a new way of working that [some believe](https://www.axios.com/slack-ceo-companies-post-pandemic-2ec87c33-87ad-454c-8410-e12f4e5f60b4.html) were inevitable. In the past year, developers rushed to adapt tools to a fully distributed environment, but the challenge presented by the next twelve months and beyond is how to make those tools work in the hybrid environment many of us will inhabit.
