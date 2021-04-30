@@ -119,7 +119,8 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 960,
-              withWebp: true
+              withWebp: true,
+              linkImagesToOriginal: false
             }
           },
           {
@@ -226,13 +227,6 @@ module.exports = {
         cssLoaderOptions: {
           camelCase: false
         }
-      }
-    },
-    {
-      resolve: '@sentry/gatsby',
-      options: {
-        dsn: process.env.SENTRY_DSN,
-        tracesSampleRate: 1
       }
     },
     'gatsby-plugin-flow',
