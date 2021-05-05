@@ -2,7 +2,7 @@
 title: When you struggle to write
 date: "2021-05-06T16:00:00.121Z"
 template: "post"
-draft: false
+draft: true
 slug: "when-you-struggle-to-write"
 category: "Developer Relations"
 tags:
