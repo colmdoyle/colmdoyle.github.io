@@ -18,7 +18,7 @@ template: "page"
         <a href="https://overcast.fm/itunes1564720966"><img alt="Listen in Overcast" src="/media/podcast-buttons/listen-overcast.svg"></a>
     </li>
     <li>
-        <a href="http://pca.st/itunes/1564720966"><img alt="Listen in Pocket Casts" src="/media/podcast-buttons/listen-pocketcasts.svg"></a>
+        <a href="https://pca.st/619kcfqy"><img alt="Listen in Pocket Casts" src="/media/podcast-buttons/listen-pocketcasts.svg"></a>
     </li>
     <li>
         <a href="https://anchor.fm/s/57ec5b10/podcast/rss"><img alt="Subscribe via RSS Feed" src="/media/podcast-buttons/listen-rss.svg"></a>
