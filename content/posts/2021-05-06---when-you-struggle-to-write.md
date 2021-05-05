@@ -2,17 +2,17 @@
 title: When you struggle to write
 date: "2021-05-06T16:00:00.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "when-you-struggle-to-write"
 category: "Developer Relations"
 tags:
   - "Career Development"
   - "Developer Relations"
 description: ""
-socialImage: "/media/building-for-the-new-normal.jpg"
+socialImage: "/media/when-you-struggle-to-write.jpg"
 ---
 
-![A shot of a video conference with a woman who can be seen smiling on screen. A man is sitting in front of the computer.](/media/building-for-the-new-normal.jpg)
+![A cropped image of a mechanical typewriter](/media/when-you-struggle-to-write.jpg)
 
 It’s staring at you, making you feel stupid. It’s an empty page, or a blinking cursor in a document of zero kb.
 
