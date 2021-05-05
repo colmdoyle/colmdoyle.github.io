@@ -26,6 +26,10 @@ module.exports = {
     {
       label: 'Podcast',
       path: '/pages/podcast'
+    },
+    {
+      label: 'Newsletter',
+      path: 'https://klokta.substack.com/'
     }
   ],
   author: {
