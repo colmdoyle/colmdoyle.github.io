@@ -5,18 +5,27 @@ template: "page"
 
 ![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/media/klokta-header.jpg)
 
-Klokta is a podcast about technology, Developer Relations and more.
+## Klokta is a podcast about technology, Developer Relations and more.
+
+<ul style="list-style:none; display: flex; flex-flow: row wrap;">
+    <li>
+        <a href="https://podcasts.apple.com/us/podcast/klokta/id1564720966"><img alt="Listen On Apple Podcasts" src="/media/podcast-buttons/listen-apple.svg"></a>
+    </li>
+    <li>
+        <a href="https://castro.fm/itunes/1564720966"><img alt="Listen In Castro" src="/media/podcast-buttons/listen-in-castro.svg"></a>
+    </li>
+    <li>
+        <a href="https://overcast.fm/itunes1564720966"><img alt="Listen in Overcast" src="/media/podcast-buttons/listen-overcast.svg"></a>
+    </li>
+    <li>
+        <a href="http://pca.st/itunes/1564720966"><img alt="Listen in Pocket Casts" src="/media/podcast-buttons/listen-pocketcasts.svg"></a>
+    </li>
+    <li>
+        <a href="https://anchor.fm/s/57ec5b10/podcast/rss"><img alt="Subscribe via RSS Feed" src="/media/podcast-buttons/listen-rss.svg"></a>
+    </li>
+</ul>
 
 As part of my efforts to "[create more content](https://cdoyle.me/posts/getting-better-at-devrel#create-more-content)", I'm always trying new mediums to get a feel for how to best use them, so Klokta is what I use to try out audio content, in the somewhat obvious form of a podcast.
-
-## Listen to the latest episode
-<iframe src="https://anchor.fm/klokta/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-
-## Subscribe
-<a href="https://podcasts.apple.com/us/podcast/klokta/id1564720966?itsct=podcast_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/standard-black/en-us?size=250x83&amp;releaseDate=1617440400&h=20501991f68058036b6df5afc9d5acbc" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-
-[Subscribe using this link in your favourite podcast player](https://anchor.fm/s/57ec5b10/podcast/rss)
 
 ## What's in a name?
 
