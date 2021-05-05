@@ -21,6 +21,9 @@ template: "page"
         <a href="https://pca.st/619kcfqy"><img alt="Listen in Pocket Casts" src="/media/podcast-buttons/listen-pocketcasts.svg"></a>
     </li>
     <li>
+        <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81N2VjNWIxMC9wb2RjYXN0L3Jzcw"><img alt="Listen on Google Podcasts" src="/media/podcast-buttons/listen-google.svg"></a>
+    </li>
+    <li>
         <a href="https://anchor.fm/s/57ec5b10/podcast/rss"><img alt="Subscribe via RSS Feed" src="/media/podcast-buttons/listen-rss.svg"></a>
     </li>
 </ul>
