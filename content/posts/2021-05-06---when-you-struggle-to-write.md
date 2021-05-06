@@ -44,5 +44,4 @@ I was once involved in a conversation about the point of internal company hackat
 Unlike regular hackathons, I reckon that writing about your inability to write something is probably a chip you can only cash in once, but when you do, you might find that everything else clicks back into place and you’ll have your 1% written. Now to just write the other 99%. 
   
 ---
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!
-
+If you like this kind of content, did you know I also produce a [newsletter](https://klokta.substack.com) and a [podcast](https://cdoyle.me/pages/podcast). Subscribe to one or both and get these posts and more delivered automatically!
