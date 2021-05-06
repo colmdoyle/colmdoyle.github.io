@@ -14,6 +14,8 @@ socialImage: "/media/when-you-struggle-to-write.jpg"
 
 ![A cropped image of a mechanical typewriter](/media/when-you-struggle-to-write.jpg)
 
+<iframe src="https://anchor.fm/klokta/embed/episodes/When-you-struggle-to-write-e10d09d" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 It’s staring at you, making you feel stupid. It’s an empty page, or a blinking cursor in a document of zero kb.
 
 You *want* to write something. The *will* is there, but the idea just won’t come. You look back through your previous ideas, you voraciously consume content. Podcasts, other writers posts, your favorite websites. You seek out inspiration like a dry sponge, you wish for liquid. But it’s not coming and you’ve promised yourself you would write more, and you want to stick to your schedule. So what can you do to get going?
