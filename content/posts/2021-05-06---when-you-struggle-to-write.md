@@ -20,7 +20,10 @@ You *want* to write something. The *will* is there, but the idea just won’t co
 
 ## Tend to your ideas like a garden
 
-I’ve said before that when I have an idea for a piece of content, as soon as I can, I [write it down](https://cdoyle.me/posts/getting-better-at-devrel#create-more-content). I think of this like planting seeds in a garden. Some will grow almost instantly and be ready for publishing that week. Others may take weeks or months to bloom. It’s that garden of ideas that I visit whenever I’m stuck. If you don’t already, start tending to your own garden of ideas, and hopefully you’ll always have some content ready to harvest.
+I’ve said before that when I have an idea for a piece of content, as soon as I can, I [write it down](https://cdoyle.me/posts/getting-better-at-devrel#create-more-content). Writing it
+down can mean many things. Sometimes it's a paragraph or two, sometimes it's some bullet points, but more often than not, it's a single sentence.
+
+I think of this like planting seeds in a garden. Some will grow almost instantly and be ready for publishing that week. Others may take weeks or months to bloom. It’s that garden of ideas that I visit whenever I’m stuck. If you don’t already, start tending to your own garden of ideas, and hopefully you’ll always have some content ready to harvest.
 
 ## To produce, you should consume
 
