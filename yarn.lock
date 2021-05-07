@@ -1893,13 +1893,6 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.9.2":
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.14.0.tgz#46794bc20b612c5f75e62dd071e24dfd95f1cbe6"
-  integrity sha512-JELkvo/DlpNdJ7dlyw/eY7E0suy5i5GQH+Vlxaq1nsNJ+H7f4Vtv3jMeCEgRhZZQFXTjldYfQgv2qmM6M1v5wA==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
 "@babel/standalone@^7.12.6":
   version "7.12.9"
   resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.12.9.tgz#2da8a223b44498a1e7ca5b83d4e9d010088b0036"
@@ -8963,15 +8956,6 @@ gatsby-plugin-page-creator@^2.10.1:
     gatsby-telemetry "^1.10.1"
     globby "^11.0.2"
     lodash "^4.17.20"
-
-gatsby-plugin-plausible@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-plausible/-/gatsby-plugin-plausible-0.0.7.tgz#6f8c922bbc672a73bd8e9a39add61fb62ec96566"
-  integrity sha512-pWCXsrWal8lWMmZ1wJ2dolbwZZR1CZU1LVR/K1rYC8NeA+uqTLY8h3uH3hFgP5n8jmRRenOSJ9SjWM9OIdCjOA==
-  dependencies:
-    "@babel/runtime" "^7.9.2"
-    minimatch "3.0.4"
-    react "^16.13.1"
 
 gatsby-plugin-react-helmet@^3.10.0:
   version "3.10.0"
@@ -16315,7 +16299,7 @@ react-window@^1.8.5:
     "@babel/runtime" "^7.0.0"
     memoize-one ">=3.1.1 <6"
 
-react@^16.13.1, react@^16.8.4:
+react@^16.8.4:
   version "16.14.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
   integrity sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==
@@ -19796,9 +19780,9 @@ url-parse-lax@^3.0.0:
     prepend-http "^2.0.0"
 
 url-parse@^1.1.8, url-parse@^1.4.3, url-parse@^1.4.7:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
-  integrity sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.1.tgz#d5fa9890af8a5e1f274a2c98376510f6425f6e3b"
+  integrity sha512-HOfCOUJt7iSYzEx/UqgtwKRMC6EU91NFhsCHMv9oM03VJcVo2Qrp8T8kI9D7amFf1cu+/3CEhgb3rF9zL7k85Q==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
