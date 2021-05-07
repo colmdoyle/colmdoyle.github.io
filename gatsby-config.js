@@ -16,9 +16,10 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-plausible`,
+      resolve: `plausible-cdoyle`,
       options: {
         domain: `cdoyle.me`,
+        trackOutboundLinks: true
       },
     },
     {
