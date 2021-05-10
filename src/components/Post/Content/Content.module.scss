@@ -19,6 +19,12 @@
   }
 
   &__body {
+    &__podcast {
+      text-align: center;
+      color: $color-gray;
+      @include margin-bottom(0);
+    }
+
     & figure {
       @include margin-bottom(1);
 
