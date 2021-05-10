@@ -14,7 +14,7 @@ socialImage: "/media/spring-loaded.jpg"
 
 ![Apple marketing image for Spring Loaded event](/media/spring-loaded.jpg)
 
-<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32227100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2F716d9b9f1e9830a92d8ade58ac46689d.m4a" preload="metadata"></audio>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32227100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2F716d9b9f1e9830a92d8ade58ac46689d.m4a" preload="metadata" onplay="logPlay('spring-loaded-scorecard')"></audio>
 
 [Last week](/posts/predictions-apple-spring-loaded), I put out a few guesses on what Apple would announce at their "[Spring Loaded](https://www.youtube.com/watch?v=JdBYVNuky1M)" event. Now that it's done, I thought it was only fair to keep myself honest on how I did. And reader, the scores aren't pretty.
 

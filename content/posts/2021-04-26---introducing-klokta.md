@@ -16,7 +16,7 @@ socialImage: "/media/klokta-header.jpg"
 
 ![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/media/klokta-header.jpg)
 
-<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32225573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-27%2F13247b54469eeadcfdb689b07883bf57.m4a" preload="metadata"></audio>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32225573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-27%2F13247b54469eeadcfdb689b07883bf57.m4a" preload="metadata" onplay="logPlay('introducing-klokta')"></audio>
 
 I've always had a bit of an on and off relationship with podcasts. They're the classic "commute to work" medium and you can see why, especially in the days of the iPod. Load up your device in the morning while you have breakfast, then stick in your headphones and catch up on whatever takes your fancy.
 

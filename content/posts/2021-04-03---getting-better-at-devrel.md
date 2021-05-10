@@ -14,7 +14,7 @@ socialImage: "/media/craftsmanship.jpg"
 
 ![Craftsmanship tempered with playfulness](/media/craftsmanship.jpg)
 
-<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/31959282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2F9a4dede736592986fb47461dfeeec15d.m4a" preload="metadata"></audio>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/31959282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2F9a4dede736592986fb47461dfeeec15d.m4a" preload="metadata" onplay="logPlay('getting-better-at-devrel')"></audio>
 
 Much to my own surprise, a number of people have been asking me lately how they should approach working in Developer Relations. After listening to the excellent [Twitter Spaces Panel](https://youtu.be/_q_bWATVJTg) the other day, I was inspired to write down some of my thoughts on how people can refine the craft of working with their Developer Community. I hope this advice is as valuable for someone considering moving into DevRel as it is for a seasoned practitioner.  
 

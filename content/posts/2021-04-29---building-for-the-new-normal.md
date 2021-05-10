@@ -18,7 +18,7 @@ socialImage: "/media/building-for-the-new-normal.jpg"
 
 ![A shot of a video conference with a woman who can be seen smiling on screen. A man is sitting in front of the computer.](/media/building-for-the-new-normal.jpg)
 
-<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32468955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-29%2F0564356c-2aae-2c75-d54c-8395998a6811.mp3" preload="metadata"></audio>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32468955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-29%2F0564356c-2aae-2c75-d54c-8395998a6811.mp3" preload="metadata" onplay="logPlay('building-for-the-new-normal')"></audio>
 
 As the world starts to look toward a post COVID work environment, the commonly accepted wisdom seems to be that a Monday to Friday 9-5 routine in a central office is no longer the default expectation for [knowledge workers](https://en.wikipedia.org/wiki/Knowledge_worker). 
 

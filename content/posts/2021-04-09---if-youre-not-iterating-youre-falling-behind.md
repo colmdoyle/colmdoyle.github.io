@@ -14,7 +14,7 @@ socialImage: "/media/one-step-forward.jpg"
 
 ![A mosiac of tiles spelling out the words "One step forward"](/media/one-step-forward.jpg)
 
-<audio controls preload="metadata" src="https://anchor.fm/s/57ec5b10/podcast/play/32042156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2Fd3e4cc8d-e408-7281-2fb0-f7e0ab756b5c.m4a" ></audio>
+<audio controls preload="metadata" src="https://anchor.fm/s/57ec5b10/podcast/play/32042156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2Fd3e4cc8d-e408-7281-2fb0-f7e0ab756b5c.m4a" onplay="logPlay('if-youre-not-iterating-youre-falling-behind')"></audio>
 
 When I worked at Facebook in the early days, we used to talk a lot about what would be "the new Facebook", because if **we** didn’t become the "new Facebook", there was a hundred [YC](https://www.ycombinator.com) startups that surely would. There was a definite sense of urgency around shipping new code. 
 
