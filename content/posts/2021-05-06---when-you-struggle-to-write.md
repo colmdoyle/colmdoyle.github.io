@@ -14,7 +14,7 @@ socialImage: "/media/when-you-struggle-to-write.jpg"
 
 ![A cropped image of a mechanical typewriter](/media/when-you-struggle-to-write.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/When-you-struggle-to-write-e10d09d" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32980717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2Fc173984b-7966-f8bd-2a0e-513ab59fc5b4.mp3" preload="metadata"></audio>
 
 It’s staring at you, making you feel stupid. It’s an empty page, or a blinking cursor in a document of zero kb.
 
@@ -44,6 +44,3 @@ Sometimes the best way to getting out of a rut writing-wise is to take something
 I was once involved in a conversation about the point of internal company hackathons, and a point raised by someone there really stuck with me. He said that we all have ideas we want to pursue that aren’t on the roadmap, or funded. They’re the kind of idea that if you just get started, you’ll be able to rapidly prototype it and make your case. But it’s finding the time to get the ball rolling that always blocked you, and that was were the hackathon came in. It gave you the space to get started.
 
 Unlike regular hackathons, I reckon that writing about your inability to write something is probably a chip you can only cash in once, but when you do, you might find that everything else clicks back into place and you’ll have your 1% written. Now to just write the other 99%. 
-  
----
-If you like this kind of content, did you know I also produce a [newsletter](https://klokta.substack.com) and a [podcast](https://cdoyle.me/pages/podcast). Subscribe to get these posts and more delivered automatically!

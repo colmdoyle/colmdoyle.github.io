@@ -14,7 +14,7 @@ socialImage: "/media/one-step-forward.jpg"
 
 ![A mosiac of tiles spelling out the words "One step forward"](/media/one-step-forward.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/If-youre-not-iterating--youre-already-falling-behind-evgbnc/a-a5bbutu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls preload="metadata" src="https://anchor.fm/s/57ec5b10/podcast/play/32042156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2Fd3e4cc8d-e408-7281-2fb0-f7e0ab756b5c.m4a" ></audio>
 
 When I worked at Facebook in the early days, we used to talk a lot about what would be "the new Facebook", because if **we** didn’t become the "new Facebook", there was a hundred [YC](https://www.ycombinator.com) startups that surely would. There was a definite sense of urgency around shipping new code. 
 
@@ -43,5 +43,3 @@ Move a pixel, nudge a button, publish a blog post, knock a few ms off a load tim
 ## Iteration as a super power
 
 If, like me, you work as a Developer Advocate, then encouraging Product Managers to incorporate feedback from the community and getting other engineers to push that code into the hands of that same community in order to get more feedback should be a critical effort of your team. You and your community are direct benefactors of the historically low cost of iteration in modern software, so use it as a super power to deliver an ever improving platform for the developers you serve.
-
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!

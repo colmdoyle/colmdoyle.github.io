@@ -18,7 +18,7 @@ socialImage: "/media/building-for-the-new-normal.jpg"
 
 ![A shot of a video conference with a woman who can be seen smiling on screen. A man is sitting in front of the computer.](/media/building-for-the-new-normal.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/Building-for-the-new-normal-evtcgr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32468955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-29%2F0564356c-2aae-2c75-d54c-8395998a6811.mp3" preload="metadata"></audio>
 
 As the world starts to look toward a post COVID work environment, the commonly accepted wisdom seems to be that a Monday to Friday 9-5 routine in a central office is no longer the default expectation for [knowledge workers](https://en.wikipedia.org/wiki/Knowledge_worker). 
 
@@ -89,6 +89,3 @@ We're now over a year into this forced global work-from-home experiment. What wa
 
 As the people who are ultimately building these tools for the future of work, it's our collective responsibility to be sure that the products we design help to create the best possible environments for everyone. We owe it to ourselves not to dodge that responsibility. 
   
----
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!
-

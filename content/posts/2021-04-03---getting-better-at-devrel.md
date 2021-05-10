@@ -14,7 +14,7 @@ socialImage: "/media/craftsmanship.jpg"
 
 ![Craftsmanship tempered with playfulness](/media/craftsmanship.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/Getting-better-at-Developer-Relations-evdqpi/a-a5b0dsa" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/31959282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2F9a4dede736592986fb47461dfeeec15d.m4a" preload="metadata"></audio>
 
 Much to my own surprise, a number of people have been asking me lately how they should approach working in Developer Relations. After listening to the excellent [Twitter Spaces Panel](https://youtu.be/_q_bWATVJTg) the other day, I was inspired to write down some of my thoughts on how people can refine the craft of working with their Developer Community. I hope this advice is as valuable for someone considering moving into DevRel as it is for a seasoned practitioner.  
 
@@ -71,5 +71,3 @@ Just remember, while you may have answered the same question a million times, th
 <hr/>
 
 I’ll be upfront and say that I’m probably not the best at living up to these traits. And I’m not sure that anyone is 100% at all of them. Ultimately the best we can ever do is strive to improve, and that’s what I’m trying to do. I hope you feel like you’re improving too. 
-
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!

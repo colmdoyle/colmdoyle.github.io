@@ -23,15 +23,16 @@ const Post = ({ post }: Props) => {
       <Link className={styles['post__home-button']} to="/">All Articles</Link>
 
       <div className={styles['post__content']}>
-        <Content body={html} title={title} />
+      <Content body={html} title={title} />
       </div>
 
       <div className={styles['post__footer']}>
         <Meta date={date} />
+        <hr />
+        <p> This post is also available on the Klokta <Link to='/pages/podcast'>podcast</Link> and <a href='https://klokta.substack.com'>newsletter</a>. Subscribe now to have it automatically delivered.</p>
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
         <Author />
       </div>
-
       <div className={styles['post__comments']}>
         <Comments postSlug={slug} postTitle={post.frontmatter.title} />
       </div>

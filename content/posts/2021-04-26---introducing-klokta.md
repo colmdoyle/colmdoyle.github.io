@@ -16,7 +16,7 @@ socialImage: "/media/klokta-header.jpg"
 
 ![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/media/klokta-header.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/Introducing-Klokta-evlur5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32225573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-27%2F13247b54469eeadcfdb689b07883bf57.m4a" preload="metadata"></audio>
 
 I've always had a bit of an on and off relationship with podcasts. They're the classic "commute to work" medium and you can see why, especially in the days of the iPod. Load up your device in the morning while you have breakfast, then stick in your headphones and catch up on whatever takes your fancy.
 
@@ -57,7 +57,3 @@ For those of you curious, here’s the technology that I’ll be using in relati
 - *Hosting podcasts*: As I mentioned, I looked around and settled on Anchor to host the actual podcasts. I considered uploading them to S3 and rolling my own RSS feed for players to subscribe to, but honestly that sounded like a lot of effort, and whilst I don’t need a _massive_ amount of metrics, I was curious to at least have a sense of whether anyone was listening, which more or less forced me into something off the shelf. Anchor pretty much works out of the box, doesn’t actually cost anything, and provides basic metrics, specifically play counts and an estimate on the number of people listening. If people choose to listen using Spotify, I’ll also get a rough idea of how long they’re listening for.
 - *Cover Art*: For the cover art, I didn’t want anything fancy or well designed, so I just stuck a stock photo with a permissive license into [Procreate](https://procreate.art/ipad), added a text overlay, and that’s it. I also tend to use procreate for the images used on this site.
 - *Landing Page*: Anchor provides a landing page out of the box, but I decided I wanted to have something I could control better, so I’ve added [a page](/pages/podcast) on this site to serve that purpose. This whole site is Gatsby, so it was just a matter of adding a markdown file and a link on the side navigation. I tend to write drafts of pages (and posts like this) in [iA Writer](https://ia.net/writer) on my iPad Pro, before copying them over to [Working Copy](https://workingcopyapp.com) to commit and push to GitHub, where actions take over and deploy the site.
-  
----
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!
-
