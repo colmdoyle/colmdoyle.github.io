@@ -14,7 +14,7 @@ socialImage: "/media/when-you-struggle-to-write.jpg"
 
 ![A cropped image of a mechanical typewriter](/media/when-you-struggle-to-write.jpg)
 
-<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32980717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2Fc173984b-7966-f8bd-2a0e-513ab59fc5b4.mp3" preload="metadata"></audio>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32980717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2Fc173984b-7966-f8bd-2a0e-513ab59fc5b4.mp3" preload="metadata" onplay="logPlay('when-you-struggle-to-write')"></audio>
 
 It’s staring at you, making you feel stupid. It’s an empty page, or a blinking cursor in a document of zero kb.
 
