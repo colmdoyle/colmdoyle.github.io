@@ -2,6 +2,7 @@
 import React from 'react';
 import styles from './Content.module.scss';
 import { Link } from 'gatsby';
+import { Helmet } from 'react-helmet';
 
 type Props = {
   body: string,
