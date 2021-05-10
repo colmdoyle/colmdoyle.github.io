@@ -14,7 +14,7 @@ socialImage: "/media/spring-loaded.jpg"
 
 ![Apple marketing image for Spring Loaded event](/media/spring-loaded.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/My-Spring-Loaded-scorecard-evm0as" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32227100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2F716d9b9f1e9830a92d8ade58ac46689d.m4a" preload="metadata"></audio>
 
 [Last week](/posts/predictions-apple-spring-loaded), I put out a few guesses on what Apple would announce at their "[Spring Loaded](https://www.youtube.com/watch?v=JdBYVNuky1M)" event. Now that it's done, I thought it was only fair to keep myself honest on how I did. And reader, the scores aren't pretty.
 
@@ -59,12 +59,8 @@ The one thing they did announce, and gave a significantly larger portion of time
 
 **Finally**. Open up my wallet and take my money Tim. These will rapidly replace the Tile on my keyring, because I am _forever_ losing my keys, even during the pandemic. It does feel a little nickel and dime to make the keyring portion an added extra on something that's already, let's face it, not exactly cheap for what it is, but such is the way with Apple. Once global travel becomes a thing again, I'll probably stick them on my luggage too.
 
----
-
 ## Conclusion
 
 At the top of the last post, I said "_I don’t intend for this to be an Apple watching blog_", and that's probably for the best, because even being generous, I only got three out of seven totally correct, with two somewhat hand waving "maybes". 
 
 It's safe to say that I won't be unseating [Daring Fireball](https://daringfireball.net/) anytime soon!
-
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!

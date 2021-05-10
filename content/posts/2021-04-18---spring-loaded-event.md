@@ -14,7 +14,7 @@ socialImage: "/media/spring-loaded.jpg"
 
 ![Apple marketing image for Spring Loaded event](/media/spring-loaded.jpg)
 
-<iframe src="https://anchor.fm/klokta/embed/episodes/Apple-Spring-Loaded-event---some-predictions-evm02o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/32226840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-04-26%2Fab890280f879d6e20406da5d94c8945f.m4a" preload="metadata"></audio>
 
 I’m a big fan of Apple, and whilst I don’t intend for this to be an Apple watching blog, I’ve challenged myself to write more, and the [upcoming Apple event](https://www.theverge.com/2021/4/16/22385362/apple-event-ipad-airpods-pencil-tv-tags-rumors-spring-loaded) is what’s been playing out on podcasts and in my feeds this week. So without further ado, here’s my predictions. 
 
@@ -60,7 +60,3 @@ One other thing I’m keen to hear about is Apple TV+. If they’ve more origina
 This product has been widely leaked and commented upon, and predicting it feels like "even a stopped clock is right twice a day", but I *really* want these to ship. I’ve been using Tile on my keyring for years now, but the system is limited by the size of the Tile network, so an Apple powered device would close this gap shut. 
 
 My gut says they’ll lead by talking about the various manufacturers who have joined the Find My network in the last few weeks, before finally unveiling their own version. If it was Steve Jobs, I would have predicted he’d reveal them by pulling a keyring from his pocket, but that doesn’t feel like Tim Cook’s style. 
-
----
-
-If you have something to add, I’d love to hear it, so let’s continue the conversation over on [Twitter](https://twitter.com/colmisainmdom)!
