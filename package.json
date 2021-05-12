@@ -4,9 +4,9 @@
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "scripts": {
-    "develop": "yarn clean && gatsby develop",
-    "build": "yarn clean && gatsby build",
-    "deploy": "yarn clean && gatsby build --prefix-paths && gh-pages -d public",
+    "develop": "npm run clean && gatsby develop",
+    "build": "npm run clean && gatsby build",
+    "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
     "clean": "rimraf .cache public",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",
