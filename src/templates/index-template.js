@@ -26,7 +26,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
   } = pageContext;
 
   const { edges } = data.allMarkdownRemark;
-  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
+  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage}` : '';
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>

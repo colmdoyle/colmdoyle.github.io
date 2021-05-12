@@ -15,7 +15,7 @@ type Props = {
 };
 
 const CategoryTemplate = ({ data, pageContext }: Props) => {
-  const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
+  const { subtitle: siteSubtitle } = useSiteMetadata();
 
   const {
     category,
@@ -27,7 +27,7 @@ const CategoryTemplate = ({ data, pageContext }: Props) => {
   } = pageContext;
 
   const { edges } = data.allMarkdownRemark;
-  const pageTitle = currentPage > 0 ? `${category} - Page ${currentPage} - ${siteTitle}` : `${category} - ${siteTitle}`;
+  const pageTitle = currentPage > 0 ? `${category} - Page ${currentPage}` : `${category}`;
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>

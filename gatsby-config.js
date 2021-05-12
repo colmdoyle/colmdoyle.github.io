@@ -8,6 +8,7 @@ module.exports = {
   siteMetadata: {
     url: siteConfig.url,
     title: siteConfig.title,
+    siteName: siteConfig.siteName,
     subtitle: siteConfig.subtitle,
     copyright: siteConfig.copyright,
     disqusShortname: siteConfig.disqusShortname,

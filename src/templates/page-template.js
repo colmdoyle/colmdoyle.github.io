@@ -14,7 +14,7 @@ type Props = {
 };
 
 const PageTemplate = ({ data }: Props) => {
-  const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
+  const { subtitle: siteSubtitle } = useSiteMetadata();
   const { html: pageBody } = data.markdownRemark;
   const { frontmatter, fields } = data.markdownRemark;
   const { title: pageTitle, description: pageDescription = '', socialImage } = frontmatter;
@@ -22,7 +22,7 @@ const PageTemplate = ({ data }: Props) => {
   const socialImageUrl = socialImage?.publicURL;
 
   return (
-    <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} slug={fields.slug}>
+    <Layout title={pageTitle} description={metaDescription} socialImage={socialImageUrl} slug={fields.slug}>
       <Sidebar />
       <Page title={pageTitle}>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
