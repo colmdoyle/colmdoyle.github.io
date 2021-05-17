@@ -38,6 +38,8 @@
     "disqus"
   ],
   "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.8.1",
@@ -49,6 +51,7 @@
     "gatsby-plugin-flow": "^1.10.0",
     "gatsby-plugin-google-gtag": "^2.8.0",
     "gatsby-plugin-manifest": "^2.12.1",
+    "gatsby-plugin-mdx": "^2.5.0",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-optimize-svgs": "^1.0.5",
     "gatsby-plugin-react-helmet": "^3.10.0",
@@ -65,7 +68,6 @@
     "gatsby-remark-responsive-iframe": "^2.11.0",
     "gatsby-remark-smartypants": "^2.10.0",
     "gatsby-source-filesystem": "^2.11.1",
-    "gatsby-transformer-remark": "^2.16.1",
     "gatsby-transformer-sharp": "^2.12.1",
     "invariant": "^2.2.4",
     "katex": "^0.13.0",

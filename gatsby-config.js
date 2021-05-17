@@ -17,6 +17,13 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/media`,
+        name: 'media'
+      }
+    },
+    {
       resolve: `plausible-cdoyle`,
       options: {
         domain: `cdoyle.me`,
@@ -28,13 +35,6 @@ module.exports = {
       options: {
         path: `${__dirname}/static`,
         name: 'assets'
-      }
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/static/media`,
-        name: 'media'
       }
     },
     {
@@ -66,8 +66,8 @@ module.exports = {
           }
         `,
         feeds: [{
-          serialize: ({ query: { site, allMarkdownRemark } }) => (
-            allMarkdownRemark.edges.map((edge) => ({
+          serialize: ({ query: { site, allMdx } }) => (
+            allMdx.edges.map((edge) => ({
               ...edge.node.frontmatter,
               description: edge.node.frontmatter.description,
               date: edge.node.frontmatter.date,
@@ -78,14 +78,14 @@ module.exports = {
           ),
           query: `
               {
-                allMarkdownRemark(
+                allMdx(
                   limit: 1000,
                   sort: { order: DESC, fields: [frontmatter___date] },
                   filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
                 ) {
                   edges {
                     node {
-                      html
+                      body
                       fields {
                         slug
                       }
@@ -106,17 +106,13 @@ module.exports = {
         }]
       }
     },
+    `gatsby-remark-images`,
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: 'gatsby-plugin-mdx',
       options: {
-        plugins: [
+        extensions: [`.mdx`],
+        gatsbyRemarkPlugins: [
           'gatsby-remark-relative-images',
-          {
-            resolve: 'gatsby-remark-katex',
-            options: {
-              strict: 'ignore'
-            }
-          },
           {
             resolve: 'gatsby-remark-images',
             options: {

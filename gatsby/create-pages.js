@@ -30,7 +30,7 @@ const createPages = async ({ graphql, actions }) => {
   // Posts and pages from markdown
   const result = await graphql(`
     {
-      allMarkdownRemark(
+      allMdx(
         filter: { frontmatter: { draft: { ne: true } } }
       ) {
         edges {
@@ -47,7 +47,7 @@ const createPages = async ({ graphql, actions }) => {
     }
   `);
 
-  const { edges } = result.data.allMarkdownRemark;
+  const { edges } = result.data.allMdx;
 
   _.each(edges, (edge) => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {

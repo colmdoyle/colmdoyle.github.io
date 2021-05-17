@@ -6,7 +6,7 @@ const { createFilePath } = require('gatsby-source-filesystem');
 const onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
 
-  if (node.internal.type === 'MarkdownRemark') {
+  if (node.internal.type === 'Mdx') {
     if (typeof node.frontmatter.slug !== 'undefined') {
       const dirname = getNode(node.parent).relativeDirectory;
       createNodeField({

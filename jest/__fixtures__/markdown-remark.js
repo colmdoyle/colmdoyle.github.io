@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  markdownRemark: {
+  Mdx: {
     id: 'test-123',
     html: '<p>test</p>',
     fields: {

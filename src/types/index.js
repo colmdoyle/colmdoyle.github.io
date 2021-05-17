@@ -48,8 +48,8 @@ export type Edge = {
 
 export type Edges = Array<Edge>;
 
-export type AllMarkdownRemark = {
-  allMarkdownRemark: {
+export type allMdx = {
+  allMdx: {
     edges: Edges,
   },
   group: {
@@ -58,4 +58,4 @@ export type AllMarkdownRemark = {
   }[]
 };
 
-export type MarkdownRemark = Node;
+export type mdx = Node;

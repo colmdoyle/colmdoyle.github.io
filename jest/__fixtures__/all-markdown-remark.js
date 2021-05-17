@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  allMarkdownRemark: {
+  allMdx: {
     group: [
       {
         fieldValue: 'test_0',

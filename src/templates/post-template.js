@@ -4,33 +4,33 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Post from '../components/Post';
 import { useSiteMetadata } from '../hooks';
-import type { MarkdownRemark } from '../types';
+import type { mdx } from '../types';
 
 type Props = {
   data: {
-    markdownRemark: MarkdownRemark
+    mdx: mdx
   }
 };
 
 const PostTemplate = ({ data }: Props) => {
   const { subtitle: siteSubtitle } = useSiteMetadata();
-  const { frontmatter, fields } = data.markdownRemark;
+  const { frontmatter, fields } = data.mdx;
   const { title: postTitle, description: postDescription = '', socialImage } = frontmatter;
   const metaDescription = postDescription || siteSubtitle;
   const socialImageUrl = socialImage?.publicURL;
 
   return (
     <Layout title={postTitle} description={metaDescription} socialImage={socialImageUrl} slug={fields.slug} >
-      <Post post={data.markdownRemark} />
+      <Post post={data.mdx} />
     </Layout>
   );
 };
 
 export const query = graphql`
   query PostBySlug($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    mdx(fields: { slug: { eq: $slug } }) {
       id
-      html
+      body
       fields {
         slug
         tagSlugs

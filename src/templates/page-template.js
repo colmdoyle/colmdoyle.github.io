@@ -5,18 +5,19 @@ import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 import { useSiteMetadata } from '../hooks';
-import type { MarkdownRemark } from '../types';
+import type { mdx } from '../types';
+import { MDXRenderer } from 'gatsby-plugin-mdx';
 
 type Props = {
   data: {
-    markdownRemark: MarkdownRemark
+    mdx: mdx
   }
 };
 
 const PageTemplate = ({ data }: Props) => {
   const { subtitle: siteSubtitle } = useSiteMetadata();
-  const { html: pageBody } = data.markdownRemark;
-  const { frontmatter, fields } = data.markdownRemark;
+  const { body } = data.mdx;
+  const { frontmatter, fields } = data.mdx;
   const { title: pageTitle, description: pageDescription = '', socialImage } = frontmatter;
   const metaDescription = pageDescription || siteSubtitle;
   const socialImageUrl = socialImage?.publicURL;
@@ -25,7 +26,7 @@ const PageTemplate = ({ data }: Props) => {
     <Layout title={pageTitle} description={metaDescription} socialImage={socialImageUrl} slug={fields.slug}>
       <Sidebar />
       <Page title={pageTitle}>
-        <div dangerouslySetInnerHTML={{ __html: pageBody }} />
+      <MDXRenderer>{body}</MDXRenderer>
       </Page>
     </Layout>
   );
@@ -33,9 +34,9 @@ const PageTemplate = ({ data }: Props) => {
 
 export const query = graphql`
   query PageBySlug($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    mdx(fields: { slug: { eq: $slug } }) {
       id
-      html
+      body
       fields {
         slug
       }
