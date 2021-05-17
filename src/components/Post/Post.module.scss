@@ -2,12 +2,6 @@
 @import '../../assets/scss/mixins';
 
 .post {
-  audio {
-    display: block;
-    width: 80%;
-    margin: 1em auto;
-  }
-  
   &__footer {
     max-width: $layout-post-width;
     margin: 0 auto;

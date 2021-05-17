@@ -23,7 +23,7 @@ const Post = ({ post }: Props) => {
       <Link className={styles['post__home-button']} to="/">All Articles</Link>
 
       <div className={styles['post__content']}>
-      <Content body={body} title={title} />
+      <Content body={body} title={title} slug={slug}/>
       </div>
 
       <div className={styles['post__footer']}>
