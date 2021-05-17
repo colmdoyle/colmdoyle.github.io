@@ -6,9 +6,15 @@ type Props = {
     slug: string
 };
 
+const isBrowser = typeof window !== "undefined"
+
 const TrackedAudio = ({ src, slug }: Props) => {
     const logPlay = (slug) => {
-        window.plausible ? window.plausible('audioPlay', { props: { slug } }) : console.warn(`plausible not initialized, would have logged ${slug}`);
+        if (isBrowser) {
+            window.plausible ? window.plausible('audioPlay', { props: { slug } }) : console.warn(`plausible not initialized, would have logged ${slug}`);
+        } else {
+            console.log('window unavailable');
+        }
     };
     return (
         <div className={styles['TrackedAudio']}>

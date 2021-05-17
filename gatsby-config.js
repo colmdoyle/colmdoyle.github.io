@@ -52,7 +52,7 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-feed',
+      resolve: 'gatsby-plugin-feed-mdx',
       options: {
         query: `
           {
@@ -73,7 +73,7 @@ module.exports = {
               date: edge.node.frontmatter.date,
               url: site.siteMetadata.site_url + edge.node.fields.slug,
               guid: site.siteMetadata.site_url + edge.node.fields.slug,
-              custom_elements: [{ 'content:encoded': edge.node.html }]
+              custom_elements: [{ 'content:encoded': edge.node.body }]
             }))
           ),
           query: `
