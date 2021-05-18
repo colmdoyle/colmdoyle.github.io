@@ -6,7 +6,9 @@ socialImage: "/media/on-stage-social-crop.jpg"
 
 ![Colm Doyle speaking on stage](../media/on-stage-cropped.jpg)
 
-If you're interested in having me speak at your event, thank you for considering me! I'm happy to speak at developer focused events where I can participate from Ireland. Given the current situation, I cannot travel, but will provide pre-records of any of my talks, and if timezones allow, particpate in live Q&A. If none of the talks below fit the bill, let me know and I'll see if there's something I can speak to. 
+## Events
+
+If you're interested in having me speak at your event or on your podcast, thank you for considering me! I'm happy to speak at developer focused events where I can participate from Ireland. Given the current situation, I cannot travel, but will provide pre-records of any of my talks, and if timezones allow, particpate in live Q&A. If none of the talks below fit the bill, let me know and I'll see if there's something I can speak to. 
 
 ## Talks
 
