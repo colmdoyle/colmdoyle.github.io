@@ -43,6 +43,7 @@ const Layout = ({
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={metaImageUrl} />
         <meta name="twitter:creator" content={author.contacts.twitter} />
+        <meta name="author" content={author.name} />
       </Helmet>
       {children}
     </div>
