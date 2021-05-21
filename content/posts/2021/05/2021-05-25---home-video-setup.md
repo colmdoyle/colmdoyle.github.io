@@ -1,19 +1,21 @@
 ---
-title: What you can do to level up your home video conference setup
+title: Improving your video conference setup
 date: "2021-05-25T12:00:00.121Z"
 template: "post"
 draft: false
-slug: "level-up-your-home-video-setup"
+slug: "improving-your-video-setup"
 category: "Developer Relations"
 tags:
   - "Developer Relations"
   - "Working from home"
   - "Gadgets"
-description: "It's been over a year now, and hybrid/remote events are here to stay. Here's six tips to level up your home video conference setup so every event you do hits that professionalism bar you want."
+description: "It's been over a year now, and hybrid/remote events are here to stay. Here's some suggestions on what tools you can invest in to level up your video conference setup so every event you do hits that professionalism bar you want."
 socialImage: "/media/post-headers/desk-planner.jpg"
 ---
 
 ![A desk with various items on it, including a microphone, a monitor and a DSLR as a camera.](/media/post-headers/desk-shot.jpeg)
+
+<audio controls src="https://anchor.fm/s/57ec5b10/podcast/play/33961175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-21%2F5c4a8b46-38ea-a9e1-b8a0-f6e928eabd2d.mp3" preload="metadata" onplay="logPlay('improving-your-video-setup')"></audio>
 
 After a year of entirely virtual meetups and conferences, it seems unlikely at this point that we'll ever go back to 100% in-person events. Like workplaces, most events seem to be leaning towards a hybrid model, with participants attending both in person, and virtually over a livestream. So with that in mind, what investments should you be making in your setup to ensure that when you choose to participate virtually, you're not giving a sub-par experience to the people attending your talk?
 
@@ -33,7 +35,7 @@ If you're just starting out, audio is 100% where you should start. People will f
 	<figcaption><a href="https://www.bluemic.com/en-us/products/yeti/">Yeti by Blue</a></figcaption>
 </figure>
 
-The [Yeti by Blue](https://www.bluemic.com/en-us/products/yeti/) is almost a defacto standard now for people running smaller podcasts and is what I use. You can adjust the [gain](https://mynewmicrophone.com/microphone-gain), have different settings for one person using it versus multiple, you can mount it or have it on your desk, and easiest of all, it supports USB, so you don't need a second piece of hardward to run it through.
+The [Yeti by Blue](https://www.bluemic.com/en-us/products/yeti/) is almost a defacto standard now for people running smaller podcasts and is what I use. You can adjust the [gain](https://mynewmicrophone.com/microphone-gain), have different settings for one person using it versus multiple, you can mount it or have it on your desk, and easiest of all, it supports USB, so you don't need a second piece of hardware to run it through.
 
 For a sense of what results the Yeti gives, every episode of [Klokta](/pages/podcast) was recorded using one, so feel free to check that out.
 
@@ -50,7 +52,7 @@ If you can't afford to get a dedicated microphone, at a minimum you should use t
 ### Higher end option - Sony a6400 w/ Sigma Prime lens and Elgato CamLink 4K ($1300)
 
 
-There's no getting around the fact that $1200 is **a lot** for what you'd essentially be using as a webcam. But if you want to justify it to yourself, I'd point out that you can take it off the mount when you're not presenting and you have a _very_ good camera for taking photos of your kids, nature, friends etc.
+There's no getting around the fact that $1300 is **a lot** for what you'd essentially be using as a webcam. But if you want to justify it to yourself, I'd point out that you can take it off the mount when you're not presenting and you have a _very_ good camera for taking photos of your kids, nature, friends etc.
 
 <figure class="float-right">
 	<img src="/media/post-photos/a6400.jpeg" alt="A Yeti by Blue microphone" />
@@ -118,7 +120,7 @@ Once you've gotten all of the above sorted, you're really into over-engineering 
 	<figcaption><a href="https://www.elgato.com/en/key-light">Stream Deck Mobile</a></figcaption>
 </figure>
 
-- [Stream Deck Mobile](https://www.elgato.com/en/stream-deck-mobile) ($25 per year): I had an old iPad Mini that wasn't doing anything else, so I purchased Stream Deck Mobile and stuck it on a stand. It's definitely helpful as you can configure it to control just about anything from Zoom to your lights, to playing random noises in meetings.
+- [Stream Deck Mobile](https://www.elgato.com/en/stream-deck-mobile) ($25 per year): I had an old iPad Mini that wasn't doing anything else, so I purchased Stream Deck Mobile and stuck it on a stand. It's definitely helpful as you can configure it to control just about anything from Zoom to your lights, to playing random noises in meetings. If you don't have a spare iPad or iDevice lying around, you can also buy a [physical Stream Deck](https://www.elgato.com/en/stream-deck ) for a significantly higher cost from Elgato.
 - [Elgato Green Screen](https://www.elgato.com/en/green-screen) ($160): I really only pull this out for videos where I'll do a bunch of post-production, but it's a helpful tool, especially if you can't really otherwise control your background due to space constraints etc. The screen shot in the "Reincubate Camo" section above involved the green screen.
 - [Jarvis Hardwood Standing Desk](https://www.fully.com/standing-desks/jarvis/jarvis-hardwood-standing-desk.html) (starts at $1139): You're going to need somewhere to put all this stuff obviously, and I put mine on a Jarvis hardwood desk. It's adjustable over a wide range and is big enough to hold everything comfortably.
 
