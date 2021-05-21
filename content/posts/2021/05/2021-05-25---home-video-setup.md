@@ -10,7 +10,7 @@ tags:
   - "Working from home"
   - "Gadgets"
 description: "It's been over a year now, and hybrid/remote events are here to stay. Here's some suggestions on what tools you can invest in to level up your video conference setup so every event you do hits that professionalism bar you want."
-socialImage: "/media/post-headers/desk-planner.jpg"
+socialImage: "/media/post-headers/desk-shot.jpeg"
 ---
 
 ![A desk with various items on it, including a microphone, a monitor and a DSLR as a camera.](/media/post-headers/desk-shot.jpeg)
