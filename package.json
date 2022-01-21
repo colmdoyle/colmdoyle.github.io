@@ -70,7 +70,7 @@
     "invariant": "^2.2.4",
     "katex": "^0.13.0",
     "lodash": "^4.17.21",
-    "node-sass": "^5.0.0",
+    "sass": "^1.49.0",
     "normalize-scss": "^7.0.1",
     "postcss": "^8.2.10",
     "prismjs": "^1.24.0",
