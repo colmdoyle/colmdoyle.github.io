@@ -12,7 +12,7 @@ description: "Most people think of recruiter InMails as spam, but not me. I see 
 socialImage: "/media/post-headers/answer-every-inmail.jpg"
 ---
 
-![A person in business formal clothing typing on a laptop. There are various charts printed on paper scattered on the desk beside them.](//media/post-headers/answer-every-inmail.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/etNH03JJRQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ask anyone in tech about [LinkedIn](https://linkedin.com), and it usually won't be long before you hear about a constant barrage of messages from recruiters.
 
@@ -20,7 +20,7 @@ Truly, the best kind of spam is the one that's constantly offering you jobs, but
 
 Not an opportunity for a new role though - they're an opportunity for some market research.
 
-The reality right now is that it’s a candidate market, and recruiters have targets to hit, so they’re usually willing to get into a conversation, and you should use that, even if you’re not looking because you should always try to keep up to date on the state of your industry, so you know (with data) if your current job is as ideal as you may or may not think it is.
+The reality right now is that it’s a candidate's market, and recruiters have targets to hit, so they’re usually willing to get into a conversation, and you should use that, even if you’re not looking because you should always try to keep up to date on the state of your industry, so you know (with data) if your current job is as ideal as you may or may not think it is.
 
 That's why I respond to every recruiter InMail I get, even if I'm not in the least bit interested in a job with their company/client. So what do I say to all these recruiters? Well, I find that three questions is usually enough to get what you need. 
 
@@ -61,7 +61,7 @@ You don't get the range from this, but again, you can read into the answer -
 > “We don’t share that data”
 
 Again, no direct compensation data, but more you could imply - 
-- Be wary of companies who won’t even talk ballpark figures, because they’re actively trying to low ball you and/or waste your time.
+- Be wary of companies who won’t even talk ballpark figures, because they’re potentially trying to low ball you and/or waste your time.
 - Even more worrying is companies that won’t share ranges internally, because they are *absolutely* trying to lowball their staff.
 
 ## Other benefits / perks
@@ -73,6 +73,7 @@ God there’s so many potential questions here, and it’s really a movable feas
 - What’s your healthcare plan?
 - What’s your bonus structure?
 - Do you fly your staff business class for long haul travel?
+- What's your commission structure?
 - What’s your remote/hybrid/office policy?
 - Do you provide onsite snacks/meals?
 - What software / hardware do you provide? Can I deviate from that?
