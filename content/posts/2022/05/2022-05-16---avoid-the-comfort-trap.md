@@ -12,6 +12,8 @@ description: "Everyone should get in the habit of interviewing themselves for th
 socialImage: "/media/post-headers/steve-jobs.jpg"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wM2n9ki9J80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![A picture of Steve Jobs, co-founder of Apple. He is holding an iPhone on stage at an Apple event, but the photo is tightly cropped, showing only his shoulders and above.](/media/post-headers/steve-jobs.jpg)
 
 There's a quote floating around the internet that is supposedly attributed to [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and although I confess I don't know if he ever said it, I like the sentiment regardless of the source. It goes something like this -
