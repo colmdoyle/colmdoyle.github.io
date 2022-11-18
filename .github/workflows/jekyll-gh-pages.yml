@@ -30,9 +30,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
-      - uses:  helaili/jekyll-action@v2
+        uses: actions/jekyll-build-pages@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          source: ./
+          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
