@@ -9,7 +9,7 @@ tags:
   - "Software Development"
   - "Developer Relations"
 description: "If your company doesn't have a sense of urgency around iteration, then you're likely already falling behind"
-socialImage: "/public/media/one-step-forward.jpg"
+image: "/public/media/one-step-forward.jpg"
 ---
 
 ![A mosiac of tiles spelling out the words "One step forward"](/public/media/one-step-forward.jpg)

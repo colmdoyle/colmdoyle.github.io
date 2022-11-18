@@ -11,7 +11,7 @@ tags:
   - "Podcast"
   - "Klokta"
 description: "I've always had a bit of an on and off relationship with podcasts. They're the classic ‘commute to work’ medium and you can see why, especially in the days of the iPod. Load up your device in the morning while you have breakfast, then stick in your headphones and catch up on whatever takes your fancy."
-socialImage: "/public/media/klokta-header.jpg"
+image: "/public/media/klokta-header.jpg"
 ---
 
 ![Klokta artwork - picture of a laptop and a notebook, heavily blurred, with the word Klokta overlaid](/public/media/klokta-header.jpg)

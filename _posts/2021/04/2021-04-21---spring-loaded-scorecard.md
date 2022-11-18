@@ -9,7 +9,7 @@ tags:
   - "Apps"
   - "Apple"
 description: "How did I do when predicting the Apple Spring Loaded event? Let's see shall we..."
-socialImage: "/public/media/spring-loaded.jpg"
+image: "/public/media/spring-loaded.jpg"
 ---
 
 ![Apple marketing image for Spring Loaded event](/public/media/spring-loaded.jpg)

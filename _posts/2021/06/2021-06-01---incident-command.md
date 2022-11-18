@@ -9,7 +9,7 @@ tags:
   - "Incident Response"
   - "DevOps"
 description: "The Incident Commander is a powerful role in the world of Incident Management that is traditionally filled by senior engineers and engineering managers. But have you ever considered that maybe you should be casting your net a bit wider when it comes to staffing that role?"
-socialImage: "/public/media/post-headers/gene-kranz.jpg"
+image: "/public/media/post-headers/gene-kranz.jpg"
 ---
 
 ![A black and white photo of Gene Kranz. A Public Domain Image from NASA.gov](/public/media/post-headers/gene-kranz.jpg)

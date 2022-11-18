@@ -9,7 +9,7 @@ tags:
   - "Apps"
   - "Apple"
 description: "What to expect to this week's Apple Spring Loaded event"
-socialImage: "/public/media/spring-loaded.jpg"
+image: "/public/media/spring-loaded.jpg"
 ---
 
 ![Apple marketing image for Spring Loaded event](/public/media/spring-loaded.jpg)

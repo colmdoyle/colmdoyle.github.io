@@ -13,7 +13,7 @@ tags:
   - "Future of work"
   - "Software Development"
 description: "In a world where we no longer move from desk to meeting room and back, what do we need to change about the tools we build so they help us to achieve our common goals at work?"
-socialImage: "/public/media/building-for-the-new-normal.jpg"
+image: "/public/media/building-for-the-new-normal.jpg"
 ---
 
 ![A shot of a video conference with a woman who can be seen smiling on screen. A man is sitting in front of the computer.](/public/media/building-for-the-new-normal.jpg)

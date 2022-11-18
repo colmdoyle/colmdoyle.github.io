@@ -11,7 +11,7 @@ tags:
   - "Development"
   - "Product Management"
 description: "Bug fixes and various improvments. I'm willing to bet that almost every app update installed on your device in the last 12 months has had that exact set of release notes, or something extremely similar."
-socialImage: "/public/media/nux-flows.jpg"
+image: "/public/media/nux-flows.jpg"
 ---
 
 > "Bug fixes and various improvements"

@@ -1,7 +1,7 @@
 ---
 title: "Speaking"
 layout: "page"
-socialImage: "/public/media/on-stage-social-crop.jpg"
+image: "/public/media/on-stage-social-crop.jpg"
 published: false
 ---
 

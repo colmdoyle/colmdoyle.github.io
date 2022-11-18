@@ -9,7 +9,7 @@ tags:
   - "Careers"
   - "Hiring"
 description: "Most people think of recruiter InMails as spam, but not me. I see opportunity in every one."
-socialImage: "/public/media/post-headers/answer-every-inmail.jpg"
+image: "/public/media/post-headers/answer-every-inmail.jpg"
 ---
 
 Ask anyone in tech about [LinkedIn](https://linkedin.com), and it usually won't be long before you hear about a constant barrage of messages from recruiters.

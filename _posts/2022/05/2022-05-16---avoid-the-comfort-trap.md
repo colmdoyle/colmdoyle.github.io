@@ -9,7 +9,7 @@ tags:
   - "Careers"
   - "Hiring"
 description: "Everyone should get in the habit of interviewing themselves for their own jobs. Here's my advice on why, and it's probably not what you think."
-socialImage: "/public/media/post-headers/steve-jobs.jpg"
+image: "/public/media/post-headers/steve-jobs.jpg"
 ---
 
 ![A picture of Steve Jobs, co-founder of Apple. He is holding an iPhone on stage at an Apple event, but the photo is tightly cropped, showing only his shoulders and above.](/public/media/post-headers/steve-jobs.jpg)

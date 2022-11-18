@@ -9,7 +9,7 @@ tags:
   - "Career Development"
   - "Developer Relations"
 description: "When a large part of your job is content creation, what can you do when you're struggling to get your creative juices flowing? Here's some approaches I take when writer's block strikes."
-socialImage: "/public/media/when-you-struggle-to-write.jpg"
+image: "/public/media/when-you-struggle-to-write.jpg"
 ---
 
 ![A cropped image of a mechanical typewriter](/public/media/when-you-struggle-to-write.jpg)

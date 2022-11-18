@@ -9,7 +9,7 @@ tags:
   - "Career Development"
   - "Developer Relations"
 description: "Six things that I recommend to help people refine the craft of working with their Developer Community"
-socialImage: "/public/media/craftsmanship.jpg"
+image: "/public/media/craftsmanship.jpg"
 ---
 
 ![Craftsmanship tempered with playfulness](/public/media/craftsmanship.jpg)

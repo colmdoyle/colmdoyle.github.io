@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: "page"
-socialImage: "/photo.jpg"
+image: "/photo.jpg"
 ---
 
 ##  Hello! I'm Colm Doyle, a Developer Relations professional from Dublin, Ireland.

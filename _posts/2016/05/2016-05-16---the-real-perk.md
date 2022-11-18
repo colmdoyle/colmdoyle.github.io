@@ -10,7 +10,7 @@ tags:
   - "Startups"
   - "Facebook"
 description: "Tech companies do a fantastic job on their career sites of talking about all the amazing perks they offer. Free food as far as the eye can see, the latest hardware and eye-popping salaries. But at the best companies, the real perk is something else."
-socialImage: "/public/media/zuck-qanda.jpg"
+image: "/public/media/zuck-qanda.jpg"
 ---
 
 Tech companies do a fantastic job on their career sites of talking about all the amazing perks they offer. Free food as far as the eye can see, the latest hardware and eye-popping salaries. But at the best companies, the real perk is something else.

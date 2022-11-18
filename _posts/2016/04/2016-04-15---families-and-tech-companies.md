@@ -10,7 +10,7 @@ tags:
   - "Startups"
   - "Meetups"
 description: "I’ve just finished reading Disrupted by Dan Lyons. Apart from finding it hilarious, which I did, it offers a somewhat scathing critique of how a modern technology company operates."
-socialImage: "/public/media/pizza-boxes.jpg"
+image: "/public/media/pizza-boxes.jpg"
 ---
 
 I’ve just finished reading [Disrupted](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble/dp/0316306088) by [Dan Lyons](https://twitter.com/realdanlyons). Apart from finding it hilarious, which I did, it offers a somewhat scathing critique of how a modern technology company operates.
