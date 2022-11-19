@@ -10,6 +10,7 @@ tags:
   - "Apple"
 description: "What to expect to this week's Apple Spring Loaded event"
 image: "/public/media/spring-loaded.jpg"
+redirect_from: /posts/2021/04/predictions-apple-spring-loaded
 ---
 
 ![Apple marketing image for Spring Loaded event](/public/media/spring-loaded.jpg)
