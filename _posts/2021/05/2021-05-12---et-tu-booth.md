@@ -10,6 +10,7 @@ tags:
   - "Developer Relations"
 description: "Is a conference booth really the best way to engage with developers? And if it isn't, why do we spend so much time and money on them?"
 image: "/public/media/post-headers/et-tu-booth.jpg"
+redirect_from: /posts/2021/05/et-tu-booth
 ---
 
 ![Attendees at a conference](/public/media/post-headers/et-tu-booth.jpg)

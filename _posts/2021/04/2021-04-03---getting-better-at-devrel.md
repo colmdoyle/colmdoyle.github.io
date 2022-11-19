@@ -10,6 +10,7 @@ tags:
   - "Developer Relations"
 description: "Six things that I recommend to help people refine the craft of working with their Developer Community"
 image: "/public/media/craftsmanship.jpg"
+redirect_from: /posts/2021/04/getting-better-at-devrel
 ---
 
 ![Craftsmanship tempered with playfulness](/public/media/craftsmanship.jpg)

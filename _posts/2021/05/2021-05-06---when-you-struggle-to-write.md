@@ -10,6 +10,7 @@ tags:
   - "Developer Relations"
 description: "When a large part of your job is content creation, what can you do when you're struggling to get your creative juices flowing? Here's some approaches I take when writer's block strikes."
 image: "/public/media/when-you-struggle-to-write.jpg"
+redirect_from: /posts/2021/05/when-you-struggle-to-write
 ---
 
 ![A cropped image of a mechanical typewriter](/public/media/when-you-struggle-to-write.jpg)

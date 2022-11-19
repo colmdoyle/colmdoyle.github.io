@@ -10,6 +10,7 @@ tags:
   - "Developer Relations"
 description: "If your company doesn't have a sense of urgency around iteration, then you're likely already falling behind"
 image: "/public/media/one-step-forward.jpg"
+redirect_from: /posts/2021/04/if-youre-not-iterating-youre-falling-behind
 ---
 
 ![A mosiac of tiles spelling out the words "One step forward"](/public/media/one-step-forward.jpg)

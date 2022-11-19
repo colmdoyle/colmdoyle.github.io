@@ -10,6 +10,7 @@ tags:
   - "Apple"
 description: "How did I do when predicting the Apple Spring Loaded event? Let's see shall we..."
 image: "/public/media/spring-loaded.jpg"
+redirect_from: /posts/2021/04/spring-loaded-scorecard
 ---
 
 ![Apple marketing image for Spring Loaded event](/public/media/spring-loaded.jpg)
