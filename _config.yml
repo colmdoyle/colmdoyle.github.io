@@ -33,6 +33,9 @@ exclude:
   - LICENSE.md
   - README.md
 
+feed:
+  path: /rss.xml
+
 sass:
   sass_dir: _sass
   style: :compressed
