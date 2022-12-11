@@ -29,7 +29,13 @@
   &:focus {
     text-decoration: underline;
   }
+  
 }
+
+.post-title .permalink {
+  text-decoration: none;
+} 
+
 
 // Meta data line below post title
 .post-date {
