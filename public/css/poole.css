@@ -344,6 +344,10 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+.post-title a.permalink {
+  text-decoration: none;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
