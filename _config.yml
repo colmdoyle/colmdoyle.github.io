@@ -1,9 +1,9 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+markdown: kramdown
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: /:year/:month/:day/:title/
 
 # Setup
 title: Colm Doyle
@@ -12,7 +12,6 @@ tagline: A Developer Relations professional in Dublin, Ireland.
 url: https://cdoyle.me
 paginate: 3
 baseurl: /
-permalink: pretty
 
 # Gems
 plugins:
