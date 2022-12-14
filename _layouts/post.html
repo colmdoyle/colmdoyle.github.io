@@ -5,36 +5,30 @@ layout: default
 <div class="post">
   <h1 class="post-title">
     {% if page.external_url %}
-      <a href="{{ page.external_url }}">
-        {{ page.title }}
-      </a>
-    {% else %}
-      {{ page.title }}
-    {% endif %}
+    <a href="{{ page.external_url }}"> {{ page.title }} </a>
+    {% else %} {{ page.title }} {% endif %}
   </h1>
-  <span class="post-date">{{ page.date | date_to_long_string: "ordinal" }}</span>
-  {% if page.external_url %}
-    <small>
-      <a href="{{ page.external_url }}">
-        View the linked article
-      </a>
-    </small>
-  {% endif %}
+  <span class="post-date">
+    {{ page.date | date_to_long_string: "ordinal" }} {% if page.external_url %}
+    |
+    <a href="{{ page.external_url }}"> View the linked article </a>
+    {% endif %}
+  </span>
   {{ content }}
 </div>
 
 <div class="related">
-  <h2>Related Posts</h2>
+  <h2>Other Recent Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit: 3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_long_string: "ordinal" }}</small>
-          </a>
-        </h3>
-      </li>
+    <li>
+      <h3>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+          <small>{{ post.date | date_to_long_string: "ordinal" }}</small>
+        </a>
+      </h3>
+    </li>
     {% endfor %}
   </ul>
 </div>
