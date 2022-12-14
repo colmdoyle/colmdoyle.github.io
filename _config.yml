@@ -59,3 +59,10 @@ social:
     - https://twitter.com/colmisainmdom
     - https://www.linkedin.com/in/colmdoyle/
     - https://github.com/colmdoyle
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /public/photo.jpg
+      layout: "post"
