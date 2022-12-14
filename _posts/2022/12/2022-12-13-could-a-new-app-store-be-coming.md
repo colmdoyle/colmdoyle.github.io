@@ -5,6 +5,7 @@ date: "2022-12-13T23:50:00.121Z"
 layout: "post"
 draft: false
 category: "Apple"
+image: "/public/media/post-headers/could-a-new-app-store-be-coming.jpg"
 ---
 
 > Apple Inc. is preparing to allow alternative app stores on its iPhones and iPads, part of a sweeping overhaul aimed at complying with strict European Union requirements coming in 2024
