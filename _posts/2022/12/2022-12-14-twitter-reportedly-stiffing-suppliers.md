@@ -1,10 +1,11 @@
 ---
-title: Twitter is reportedly stiffing it's suppliers
+title: Twitter is reportedly stiffing their suppliers
 external_url: https://www.axios.com/2022/12/14/twitter-elon-musk-paying-bills-rent
 date: "2022-12-14T08:00:00.121Z"
 layout: "post"
 draft: false
 category: "Tech"
+redirect_from: /2022/12/14/twitter-reportedly-stiffing-suppliers/
 ---
 
 [Dan Primack](https://twitter.com/danprimack) reporting over at Axios -
