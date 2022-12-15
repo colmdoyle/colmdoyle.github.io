@@ -13,6 +13,7 @@ Tyson Singer, writing for Spotify on the Spotify engineering blog:
 > - These new plugins are made to work with Backstage, the open source platform for developer portals that we donated to the Cloud Native Computing Foundation. 
 > - Plugins are how you add functionality to Backstage, from security alerts to integrating with CI/CD. 
 > - Anyone can make their own bespoke plugins or get free ones from the Backstage open source Plugin Marketplace. 
+> 
 > And, as of today, you can also buy plugins made by Spotify.
 
 [Backstage](https://backstage.spotify.com) has always struck me as a strange endeavour. I get why Spotify would have bespoke internal tooling, and I get why they would open source it, but they always seemed to be a little *too* invested in making it successful. It appeared to have a handful of employees who sole focus was driving adoption. Which even for a major company’s internal tooling was a bit random.
