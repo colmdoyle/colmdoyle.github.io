@@ -1,5 +1,5 @@
 ---
-title: “Spotify gets into the developer experience business”
+title: “Spotify gets into the Developer Experience business”
 date: “2022-12-15T23:20:29.238Z”
 external_url: “https://engineering.atspotify.com/2022/12/shipping-spotifys-culture-5-plugins-and-4-principles-for-supercharging-developer-experience-at-scale/”
 category: “Tech”
