@@ -15,7 +15,7 @@ Tyson Singer, writing for Spotify on the Spotify engineering blog:
 > - Anyone can make their own bespoke plugins or get free ones from the Backstage open source Plugin Marketplace. 
 > And, as of today, you can also buy plugins made by Spotify.
 
-[Backstage](https://backstage.spotify.com) has always struck me as a bit odd. I get why Spotify would have bespoke internal tooling, and I get why they would open source it, but they always seemed to be a little *too* invested in making it successful. It appeared to have a handful of employees who sole focus was driving adoption. Which even for a major company’s internal tooling was a bit random.
+[Backstage](https://backstage.spotify.com) has always struck me as a strange endeavour. I get why Spotify would have bespoke internal tooling, and I get why they would open source it, but they always seemed to be a little *too* invested in making it successful. It appeared to have a handful of employees who sole focus was driving adoption. Which even for a major company’s internal tooling was a bit random.
 
 But I guess now they’ve taken it a step further and are literally trying to create a revenue stream out of it. I can’t imagine it’s going to be in any way significant to their bottom line, so I wonder how long will it be before someone starts wondering if it’s worth the investment and the team working on it get moved over to a part of the core business.
 
