@@ -3,6 +3,7 @@ title: "Twitter suspensions continue for critics of the Man Child"
 date: "2022-12-16T11:06:14.186Z"
 category: "Tech"
 image: /public/media/post-photos/twitter-hq.jpg
+external_url: https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter
 ---
 
  Mitchell Clark, Alex Heath, and Elizabeth Lopatto writing for [The Verge](https://theverge.com):
