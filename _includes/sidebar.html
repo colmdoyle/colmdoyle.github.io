@@ -25,11 +25,13 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="https://twitter.com/{{ site.twitter.username }}">Twitter</a>
+      <hr>
+      <a class="sidebar-nav-item" href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>
       <a
         rel="me"
-        href="https://mastodon.ie/@colmdoyle"
+        href="{{ site.author.mastodon }}"
         class="sidebar-nav-item">Mastodon</a>
+      <a class="sidebar-nav-item" href="https://github.com/{{ site.author.github }}">GitHub</a>
 
     </nav>
 
