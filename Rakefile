@@ -27,12 +27,12 @@ task :sharelink do
     file.puts post
   end
   puts "new post generated at #{path}"
-  system "code #{path}"
+  system "code ."
 end
 
 desc 'create new post. args: title'
 # rake sharelink title="New post title goes here" external_url="url-to-share"
-task :sharelink do
+task :new_article do
   require 'fileutils'
   require 'rubygems'
   require 'slugify'
