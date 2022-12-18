@@ -13,3 +13,5 @@ From the Twitter Help Center, emphasis mine:
 That "however" is really carrying a _lot_. 
 
 You know that a social media platform is really innovative when they won't even allow their users to _link_ to their competitors. As with everything from Twitter over the last few weeks, there are echoes of the Trump Whitehouse, where the policy people would be constantly racing to codify the random whims of their boss.
+
+And in case the nuance is lost on anyone, I think this is incredibly dumb and will only hasten Twitter's demise. 
