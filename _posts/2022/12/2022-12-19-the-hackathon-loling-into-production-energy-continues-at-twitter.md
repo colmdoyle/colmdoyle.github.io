@@ -1,5 +1,5 @@
 ---
-title: "The hackathon lol'ing into production energy continues at Twitter"
+title: "The hackathon YOLOing into production energy continues at Twitter"
 date: "2022-12-19T21:07:32.078Z"
 external_url: "https://www.theverge.com/2022/12/19/23517306/twitter-square-profile-pictures-update"
 category: "Tech"
