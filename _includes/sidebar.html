@@ -10,12 +10,6 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
-
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
@@ -30,12 +24,13 @@
         href="{{ site.author.mastodon }}"
         class="sidebar-nav-item">Mastodon</a>
       <a class="sidebar-nav-item" href="https://github.com/{{ site.author.github }}">GitHub</a>
+      <a class="sidebar-nav-item" href="{{ site.url }}/rss.xml">RSS</a>
 
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }} All rights reserved.
     </p>
   </div>
 </div>
