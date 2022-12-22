@@ -3,6 +3,7 @@ title: "Tech giants ditch office space in London and Europe"
 date: "2022-12-22T12:09:26.035Z"
 external_url: "https://www.ft.com/content/3ef0d06e-3bf2-4dd1-9b0f-39b31aad74e7"
 category: "Hybrid working"
+image: /public/media/post-headers/cityoflondontowerbridge.jpg
 ---
 
 George Hammond and Cristina Criddle writing for the Financial Times:
