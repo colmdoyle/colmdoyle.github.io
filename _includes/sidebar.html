@@ -1,6 +1,9 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+styles, `#sidebar-checkbox` for behavior. -->
+<input
+type="checkbox"
+  class="sidebar-checkbox"
+  id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -10,21 +13,22 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-    {% assign pages_list = site.pages | sort:"url" %}
+    {% assign pages_list = site.pages | sort: "url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
-      {% if node.layout == "page" or node.layout == "redirect" %}
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+        {% if node.layout == "page" or node.layout == "redirect" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
-      <a class="sidebar-nav-item" href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>
-      <a
-        rel="me"
-        href="{{ site.author.mastodon }}"
-        class="sidebar-nav-item">Mastodon</a>
-      <a class="sidebar-nav-item" href="https://github.com/{{ site.author.github }}">GitHub</a>
-      <a class="sidebar-nav-item" href="{{ site.url }}/rss.xml">RSS</a>
+    <a class="sidebar-nav-item" href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>
+    <a
+      rel="me"
+      href="{{ site.author.mastodon }}"
+      class="sidebar-nav-item">Mastodon</a>
+    <a class="sidebar-nav-item" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a>
+    <a class="sidebar-nav-item" href="https://github.com/{{ site.author.github }}">GitHub</a>
+    <a class="sidebar-nav-item" href="{{ site.url }}/rss.xml">RSS</a>
 
   </nav>
 
