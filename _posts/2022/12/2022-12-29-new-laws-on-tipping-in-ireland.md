@@ -11,7 +11,7 @@ From the [Workplace Relations Commission](https://www.workplacerelations.ie/en/w
 
 I'd noticed signage in various businesses recently which outlined how tips were disbursed, so I assumed legislation was coming, but apparently it's already in effect.
 
-I lived in California for a few years, and even though that certainly _felt_ like a state with some modicum of worker's rights (from the perspective of an EU citizen anyway), it still had scenarios that felt bizarre to me, like tips being used for a worker's basic pay instead of the employer paying them directly. This legislation specifically outlaws that practice here in Ireland. It also specifcally calls out gig worker style arrangements
+I lived in California for a few years, and even though that certainly _felt_ like a state with some modicum of worker's rights (from the perspective of an EU citizen anyway), it still had scenarios that felt bizarre to me, like tips being used for a worker's basic pay instead of the employer paying them directly. This legislation specifically outlaws that practice here in Ireland. It also specifcally calls out gig worker style arrangements and how tipping should in that situation.
 
 > A ‘contract worker’ is a person who carries out work other than as an employee, including on a contract for service. ‘Platform workers’ who are engaged in contracts for services will benefit from tips and gratuities. Those who use contract workers to deliver services will be required to display a contract workers tips and gratuities notice.
 
