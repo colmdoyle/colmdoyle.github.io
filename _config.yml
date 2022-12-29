@@ -69,5 +69,5 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /public/photo.jpg
+      image: /public/media/logos/logo-675.png
       layout: "post"
