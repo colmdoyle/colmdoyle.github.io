@@ -13,7 +13,7 @@ image: /public/media/post-photos/linked-notification.png
 
 ![Linked notification](/public/media/post-photos/linked-notification.png)
 
-I must get a notification like this from LinkedIn at least once a week. Perhaps it's the result of a notification job triggering that requires such a complex data fetch to display the actual intended message that it's more efficient to simplify notify me that _something_ is waiting for me on LinkedIn, but I cannot help but assume that a team somewhere in LinkedIn has a metric they're goaled on which tracks the conversion rate from pushes sent to app opens, and this notification is absolute rocket fuel for that metric. And want it comes to metrics, you'll always get the behaviours you reward, even if they're not the behaviours you want.
+I must get a notification like this from LinkedIn at least once a week. Perhaps it's the result of a notification job triggering that requires such a complex data fetch to display the actual intended message that it's more efficient to simplify notify me that _something_ is waiting for me on LinkedIn, but I cannot help but assume that a team somewhere in LinkedIn has a metric they're goaled on which tracks the conversion rate from pushes sent to app opens, and this notification is absolute rocket fuel for that metric. And when it comes to metrics, you'll always get the behaviours you reward, even if they're not the behaviours you want.
 
 ## Notification abuse is commonplace
 
