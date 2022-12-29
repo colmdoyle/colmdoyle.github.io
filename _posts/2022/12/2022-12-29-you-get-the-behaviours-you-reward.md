@@ -8,7 +8,7 @@ tags:
   - "Development"
   - "Product Management"
   - "iOS"
-image: /public/media/post-photos/linked-notification.png
+image: /public/media/post-headers/linkedin-notification-social.png
 ---
 
 ![Linked notification](/public/media/post-photos/linked-notification.png)
