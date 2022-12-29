@@ -31,7 +31,7 @@ The problem is that it takes a long time to get to that point. Meta ran that exp
 
 ## It's time for some self restraint
 
-So if spammy notifications provide short term gain, and it's so common that even the platform owners themselves [have done it](https://www.theverge.com/2018/12/18/18145289/apple-iphone-ios-push-notifications-carpool-karaoke), then what can we do about it?
+So if spammy notifications provide short term gain, and it's so common that even the platform owners themselves [have done it](https://appleinsider.com/articles/21/07/15/apple-sends-unsolicited-push-notification-advertising-emmy-nominations), then what can we do about it?
 
 Honestly, when it comes to punitive actions, there's nothing we can do. Clearly Apple is okay with this behaviour so they're not going to update the App Store Guidelines, but I don't know that I've ever met a user that is excited about notifications like these. 
 
