@@ -2,14 +2,14 @@
 title: "Speaking"
 layout: "page"
 image: "/public/media/on-stage-social-crop.jpg"
-published: false
+published: true
 ---
 
 ![Colm Doyle speaking on stage](/public/media/on-stage-cropped.jpg)
 
 ## Events
 
-If you're interested in having me speak at your event or on your podcast, thank you for considering me! I'm happy to speak at developer focused events where I can participate from Ireland, or where travel is provided. If none of the talks below fit the bill, let me know and I'll see if there's something I can speak to. 
+If you're interested in having me speak at your event or on your podcast, thank you for considering me! I'm happy to speak at developer focused events where I can participate from Ireland, or where travel and accommodation is provided. If none of the talks below fit the bill, let me know and I'll see if there's something I can speak to. 
 
 ## Talks
 
