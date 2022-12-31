@@ -39,21 +39,21 @@ Any kind of disruption or outage is inherently stressful for your team. Revenue,
 
 ### Long
 
-_496 characters_
+_443 characters_
 
 Colm Doyle leads the App Ecosystem team at [Intercom](https://www.intercom.com), helping developers integrate into one of the world's leading customer service platforms. Before joining Intercom, he led the Developer Advocacy team at [Slack](https://www.slack.com). He's also worked as a software engineer at companies like [Kitman Labs](https://www.kitmanlabs.com) and [Facebook](https://developers.facebook.com). In a minor claim to fame, at a hackathon he once helped [take apart the NASDAQ opening bell](http://techcrunch.com/2012/05/18/how-facebook-hacked-the-nasdaq-button/) to connect it to Facebook's APIs for that company's IPO.
 
 
 ### Short
 
-_369 characters_
+_266 characters_
 
 Colm Doyle leads the App Ecosystem team at [Intercom](https://www.intercom.com), helping developers integrate into one of the world's leading customer service platforms. In a minor claim to fame, at a hackathon he once helped [take apart the NASDAQ opening bell](http://techcrunch.com/2012/05/18/how-facebook-hacked-the-nasdaq-button/) to connect it to Facebook's APIs.
 
 
 ### Twitter friendly snippet
 
-_120 characters_
+_92 characters_
 
 Colm Doyle works on APIs at [Intercom](https://www.intercom.com), one of the world's leading customer service platforms.
 
