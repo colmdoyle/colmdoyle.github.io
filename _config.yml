@@ -58,7 +58,7 @@ twitter:
   username: colmisainmdom
   card: summary
 
-logo: /public/media/logos/monogram-4096.png
+logo: /public/icons/monogram-4096.png
 
 social:
   name: Colm Doyle
@@ -72,5 +72,5 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /public/media/logos/monogram-4096.png
+      image: /public/icons/monogram-4096.png
       layout: "post"
