@@ -32,6 +32,9 @@ exclude:
   - LICENSE.md
   - README.md
 
+include:
+  - .well-known/webfinger
+
 feed:
   path: /rss.xml
 
