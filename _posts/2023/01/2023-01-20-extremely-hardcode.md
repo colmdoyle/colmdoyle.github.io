@@ -1,5 +1,5 @@
 ---
-title: "Extremely Hardcode"
+title: "Extremely Hardcore"
 date: "2023-01-20T17:05:32.221Z"
 external_url: "https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji"
 category: "Tech"
