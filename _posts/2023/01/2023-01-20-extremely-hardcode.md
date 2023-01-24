@@ -10,7 +10,7 @@ tags:
 image: /public/media/post-photos/twitter-hq.jpg
 ---
 
-Zoe Schiffer, Casey Newton, nd Alex Heath, reporting for [The Verge](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji):
+Zoe Schiffer, Casey Newton, and Alex Heath, reporting for [The Verge](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji):
 
 > Twitter’s staff spent years trying to protect the social media site against impulsive billionaires who wanted to use the reach of its platform for their own ends, and then one made himself the CEO.
 
