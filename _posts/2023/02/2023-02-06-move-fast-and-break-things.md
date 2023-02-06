@@ -27,5 +27,5 @@ The value was a reminder that we were willing to sacrifice some stability for th
 
 In order to be meaningful, values **should** be difficult trade-offs. They need to offer a push and pull between two tempting situations. Either direction should have it's own appeal. If it doesn't, then it's not a value, it's just a bland statement of fact. After all, where's the tension in "We respect our customers" or "We value our employees"?
 
-So when you find yourself reviewing your company values, ask yourself what's the trade-off? If you're struggling to find situations where the opposite of the value is tempting, then maybe you should consider updating them.
+So when you find yourself reviewing your company values, ask yourself what's the trade-off? If you're struggling to find situations where the opposite of the value is tempting, then maybe what your team values isn't that big an ask to uphold, and it should be, otherwise why bother reinforcing it.
 
