@@ -1,6 +1,6 @@
 ---
 title: "Move fast and break things"
-date: "2023-02-07T09:52:52.657Z"
+date: "2023-02-07T14:52:52.657Z"
 category: "Culture"
 tags: 
     - "Culture"
