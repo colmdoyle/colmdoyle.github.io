@@ -1,6 +1,6 @@
 ---
 title: "Tech's elite hate labor"
-date: "2023-02-08T118:35:32.221Z"
+date: "2023-02-08T18:35:32.221Z"
 external_url: "https://ez.substack.com/p/techs-elite-hates-labor"
 category: "Careers"
 tags:
