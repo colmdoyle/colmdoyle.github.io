@@ -33,7 +33,7 @@ exclude:
   - README.md
 
 include:
-  - .well-known/webfinger
+  - ".well-known"
 
 feed:
   path: /rss.xml
