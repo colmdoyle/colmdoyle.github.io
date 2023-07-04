@@ -1,5 +1,5 @@
 ---
-title: "TIL console.log()"
+title: "TIL console.table()"
 date: "2023-07-04T12:19:55.077Z"
 category: "Development"
 ---
