@@ -2,7 +2,7 @@
 title: "Speaking"
 layout: "page"
 image: "/public/media/on-stage-social-crop.jpg"
-published: true
+published: false
 ---
 
 ![Colm Doyle speaking on stage](/public/media/on-stage-cropped.jpg)
