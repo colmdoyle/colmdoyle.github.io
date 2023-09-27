@@ -7,8 +7,8 @@ permalink: /:year/:month/:day/:title/
 
 # Setup
 title: Colm Doyle
-description: A Developer Relations professional in Dublin, Ireland.
-tagline: A Developer Relations professional in Dublin, Ireland.
+description: A Software Engineering Manager in Dublin, Ireland.
+tagline: A Software Engineering Manager in Dublin, Ireland.
 url: https://cdoyle.me
 paginate: 5
 baseurl: /
